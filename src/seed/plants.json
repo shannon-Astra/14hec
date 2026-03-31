@@ -89,6 +89,38 @@
         "efficacy_notes": "Flower essence opens receptivity to subtle perception and reconnects the individual to the dreaming and intuitive faculties.",
         "evidence_level": "anecdotal",
         "dosage_notes": "4 drops under the tongue, 4 times daily, or as intuitively guided."
+      },
+      {
+        "ailment": "Ancestral Healing",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Dreamwork ally that opens channels to ancestral memory; activates what is stored in our lineage",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "1 tsp dried leaf steeped 10 min before bed; or burn as smudge for ancestral ceremony"
+      },
+      {
+        "ailment": "Disconnection from Nature",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Dream herb that restores the animal body's connection to moon, tide, and season",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "1 tsp dried leaf as tea before sleep; or carry fresh sprig on nature walks"
+      },
+      {
+        "ailment": "Intuition Blockage",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Premier herb for opening psychic perception; activates the third eye and dream channels",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "1 tsp dried leaf steeped 10 min before meditation or sleep"
+      },
+      {
+        "ailment": "Psychic Overwhelm",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Paradoxically both opens and protects psychic perception; teaches healthy management of sensitivity",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "1 tsp dried leaf as tea; or burn as smudge to clear and protect space"
       }
     ],
     "compound_names": [
@@ -270,6 +302,78 @@
         "efficacy_notes": "Clinical evidence for reducing anxiety and stress-related psychiatric symptoms through GABAergic and serotonergic modulation.",
         "evidence_level": "clinical",
         "dosage_notes": "300-600 mg root extract twice daily. Use as adjunct under psychiatric supervision."
+      },
+      {
+        "ailment": "Anemia",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Adaptogen that supports healthy hemoglobin and red blood cell production",
+        "evidence_level": "clinical",
+        "dosage_notes": "300-600mg standardized extract daily"
+      },
+      {
+        "ailment": "Erectile Dysfunction",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Reduces performance anxiety via cortisol reduction; improves testosterone and reproductive health",
+        "evidence_level": "clinical",
+        "dosage_notes": "300-600mg standardized extract daily"
+      },
+      {
+        "ailment": "Postpartum Recovery",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Adaptogen that rebuilds strength, supports sleep, and reduces postpartum stress and depletion",
+        "evidence_level": "clinical",
+        "dosage_notes": "300-600mg extract daily"
+      },
+      {
+        "ailment": "Burnout",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Premier adaptogen that rebuilds depleted adrenal reserves; clinically shown to reduce cortisol and restore energy",
+        "evidence_level": "clinical",
+        "dosage_notes": "300-600mg standardized extract daily for 8-12 weeks"
+      },
+      {
+        "ailment": "Fear and Phobias",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Reduces cortisol-driven anxiety; builds resilience so the nervous system responds proportionally to real threats",
+        "evidence_level": "clinical",
+        "dosage_notes": "300-600mg standardized extract daily"
+      },
+      {
+        "ailment": "Nervous Exhaustion",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Rebuilds a depleted nervous system; nourishes nerve tissue and restores capacity to handle stimulation",
+        "evidence_level": "clinical",
+        "dosage_notes": "300-600mg standardized extract daily, especially in evening with warm milk"
+      },
+      {
+        "ailment": "Energetic Depletion",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Rebuilds ojas (vital essence) in Ayurveda; nourishes the deepest energetic reserves depleted by chronic stress",
+        "evidence_level": "clinical",
+        "dosage_notes": "300-600mg extract in warm milk before bed; allow 4-8 weeks for deep rebuilding"
+      },
+      {
+        "ailment": "Inability to Ground",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Root medicine that builds downward energy; name means 'strength of a horse' — deeply stabilizing",
+        "evidence_level": "clinical",
+        "dosage_notes": "300-600mg extract daily, especially in evening"
+      },
+      {
+        "ailment": "Spiritual Fatigue",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Rebuilds ojas — the vital spiritual essence; nourishes the body so the spirit has a strong vessel",
+        "evidence_level": "clinical",
+        "dosage_notes": "300-600mg extract in warm milk before bed"
       }
     ],
     "compound_names": [
@@ -395,6 +499,30 @@
         "efficacy_notes": "Opens the heart and third eye to subtle perception and reconnection with the sacred dimension of existence.",
         "evidence_level": "anecdotal",
         "dosage_notes": "4 drops under the tongue, 4 times daily, or added to bath water for an immersive vibrational treatment."
+      },
+      {
+        "ailment": "Blocked Creativity",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Opens visionary perception; traditional Egyptian creative and spiritual sacrament",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "3-5g dried petals steeped 15 min; or soak in wine as traditional preparation"
+      },
+      {
+        "ailment": "Intuition Blockage",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Sacred Egyptian visionary herb that opens the channels of inner sight and knowing",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "3-5g dried petals steeped 15 min before intuitive practice"
+      },
+      {
+        "ailment": "Loss of Wonder",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Visionary herb that restores enchantment; opens perception to the beauty already present",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "3-5g dried petals steeped 15 min; drink in a beautiful setting"
       }
     ],
     "compound_names": [
@@ -660,6 +788,14 @@
         "efficacy_notes": "CBD (cannabidiol) has FDA-approved clinical evidence for reducing seizure frequency in treatment-resistant epilepsy.",
         "evidence_level": "clinical",
         "dosage_notes": "CBD: dosing varies, typically 5-20 mg/kg/day. Must work with prescribing physician."
+      },
+      {
+        "ailment": "Blocked Creativity",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Expands associative thinking and breaks rigid mental patterns; activates novel neural connections",
+        "evidence_level": "anecdotal",
+        "dosage_notes": "Microdose approach; legal status varies by jurisdiction"
       }
     ],
     "compound_names": [
@@ -846,6 +982,62 @@
         "efficacy_notes": "Gentle calming herb safe during breastfeeding that reduces stress and may help with infant colic through breast milk.",
         "evidence_level": "traditional",
         "dosage_notes": "1-2 teaspoons dried flowers per cup, steeped 10 minutes. Drink 1-3 cups daily."
+      },
+      {
+        "ailment": "Acid Reflux",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Anti-inflammatory and carminative properties soothe gastric inflammation and relax the lower esophageal sphincter spasms",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp dried flowers steeped 10 min, 3x daily after meals"
+      },
+      {
+        "ailment": "Diverticulitis",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Anti-inflammatory and antispasmodic; reduces intestinal inflammation and cramping",
+        "evidence_level": "traditional",
+        "dosage_notes": "2 tsp dried flowers steeped 10 min, 3-4x daily"
+      },
+      {
+        "ailment": "Eczema",
+        "plant_part": "flower",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Bisabolol and chamazulene reduce skin inflammation comparable to low-dose hydrocortisone",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply chamomile cream to affected areas 3x daily; or use strong infusion as compress"
+      },
+      {
+        "ailment": "Gastritis",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Bisabolol and apigenin reduce gastric inflammation and protect mucosal lining",
+        "evidence_level": "clinical",
+        "dosage_notes": "2 tsp dried flowers steeped 10 min, 3-4x daily between meals"
+      },
+      {
+        "ailment": "Hives and Urticaria",
+        "plant_part": "flower",
+        "preparation": "Compress",
+        "efficacy_notes": "Anti-inflammatory and anti-allergic; topical application soothes itching and reduces welts",
+        "evidence_level": "traditional",
+        "dosage_notes": "Strong infusion cooled, applied as compress to affected areas; also drink as tea"
+      },
+      {
+        "ailment": "Rosacea",
+        "plant_part": "flower",
+        "preparation": "Compress",
+        "efficacy_notes": "Bisabolol and chamazulene reduce facial redness and inflammation; soothes reactive skin",
+        "evidence_level": "clinical",
+        "dosage_notes": "Strong cooled infusion applied as compress to face 2x daily"
+      },
+      {
+        "ailment": "Overwhelm",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Gentle nervine that brings the world back to a manageable pace; soothes frayed nerves",
+        "evidence_level": "clinical",
+        "dosage_notes": "2 tsp dried flowers steeped 10 min; sip slowly during overwhelming periods"
       }
     ],
     "compound_names": [
@@ -957,6 +1149,38 @@
         "efficacy_notes": "Stimulates bile production and digestive secretions. Carminative action relieves gas and bloating. Traditionally used as a culinary herb to aid digestion of rich foods.",
         "evidence_level": "traditional",
         "dosage_notes": "1 teaspoon dried rosemary per cup, steeped 10 minutes. Drink after meals."
+      },
+      {
+        "ailment": "Dandruff and Scalp Conditions",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Antimicrobial and circulation-stimulating; reduces scalp inflammation and flaking",
+        "evidence_level": "traditional",
+        "dosage_notes": "Strong infusion as scalp rinse after washing; or 2-3 drops essential oil in shampoo"
+      },
+      {
+        "ailment": "Hair Loss",
+        "plant_part": "leaf",
+        "preparation": "Essential Oil",
+        "efficacy_notes": "Stimulates scalp circulation and hair follicle growth; clinically comparable to 2% minoxidil",
+        "evidence_level": "clinical",
+        "dosage_notes": "3-5 drops essential oil in carrier oil, massage into scalp daily; leave 30 min"
+      },
+      {
+        "ailment": "Low Blood Pressure",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Circulatory stimulant that raises blood pressure through vasoconstriction; traditional cardiac tonic",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Blocked Creativity",
+        "plant_part": "leaf",
+        "preparation": "Essential Oil",
+        "efficacy_notes": "Increases cerebral blood flow and stimulates mental clarity; herb of remembrance that reconnects to creative source",
+        "evidence_level": "clinical",
+        "dosage_notes": "Inhale essential oil while working; or drink rosemary tea 2-3x daily"
       }
     ],
     "compound_names": [
@@ -1072,6 +1296,54 @@
         "efficacy_notes": "Well-established clinical evidence for mild to moderate depression, with efficacy comparable to SSRIs in trials.",
         "evidence_level": "clinical",
         "dosage_notes": "300 mg extract standardized to 0.3% hypericin, 3 times daily. Monitor drug interactions carefully."
+      },
+      {
+        "ailment": "Cold Sores",
+        "plant_part": "flower",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Hypericin has demonstrated antiviral activity against HSV; reduces healing time",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply St. John's Wort oil or cream to lesion 3-4x daily"
+      },
+      {
+        "ailment": "Sciatica",
+        "plant_part": "flower",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Hypericin repairs nerve damage and reduces neuralgic pain; specific for nerve inflammation",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply St. John's Wort oil along sciatic nerve path 2-3x daily"
+      },
+      {
+        "ailment": "Shingles",
+        "plant_part": "flower",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Antiviral hypericin combined with nerve-healing action; addresses both infection and postherpetic neuralgia",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply St. John's Wort oil to lesions 3-4x daily; also take internally as tincture"
+      },
+      {
+        "ailment": "Low Self-Esteem",
+        "plant_part": "flower",
+        "preparation": "Tincture",
+        "efficacy_notes": "Solar herb that restores inner light; clinically improves mood and self-perception; reminds us of our inherent radiance",
+        "evidence_level": "clinical",
+        "dosage_notes": "2-4ml tincture 3x daily; allow 4-6 weeks for full effect"
+      },
+      {
+        "ailment": "Dark Night of the Soul",
+        "plant_part": "flower",
+        "preparation": "Tincture",
+        "efficacy_notes": "Solar herb that brings light into spiritual darkness; traditionally used at midsummer to banish dark spirits",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture 3x daily; allow weeks for the light to rebuild"
+      },
+      {
+        "ailment": "Loss of Purpose",
+        "plant_part": "flower",
+        "preparation": "Tincture",
+        "efficacy_notes": "Solar herb that illuminates one's path; brings light to times of purposelessness and existential confusion",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture 3x daily; allow weeks for purpose to re-emerge"
       }
     ],
     "compound_names": [
@@ -1211,6 +1483,46 @@
         "efficacy_notes": "Clinical trials show Silexan (lavender oil capsules) reduces anxiety comparable to lorazepam without sedation or dependence.",
         "evidence_level": "clinical",
         "dosage_notes": "80-160 mg lavender oil capsules daily, or 1-2 cups lavender tea daily."
+      },
+      {
+        "ailment": "Loneliness and Isolation",
+        "plant_part": "flower",
+        "preparation": "Essential Oil",
+        "efficacy_notes": "Soothes the anxious self-consciousness that prevents reaching out; promotes calm self-acceptance",
+        "evidence_level": "clinical",
+        "dosage_notes": "Diffuse in living space; or 3-5 drops in bath; or inhale from palms"
+      },
+      {
+        "ailment": "Overwhelm",
+        "plant_part": "flower",
+        "preparation": "Essential Oil",
+        "efficacy_notes": "Immediate calming through olfactory nerve; reduces cortisol and restores a sense of manageability",
+        "evidence_level": "clinical",
+        "dosage_notes": "Inhale from palms; or 3-5 drops in diffuser; or lavender tea"
+      },
+      {
+        "ailment": "Shame and Guilt",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Calms the nervous system's shame response; promotes self-acceptance and inner peace",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried flowers steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Disconnection from Nature",
+        "plant_part": "flower",
+        "preparation": "Essential Oil",
+        "efficacy_notes": "Aromatic bridge between human and plant world; engaging with its scent is an act of nature connection",
+        "evidence_level": "traditional",
+        "dosage_notes": "Grow lavender and tend it; use essential oil mindfully as connection practice"
+      },
+      {
+        "ailment": "Intuition Blockage",
+        "plant_part": "flower",
+        "preparation": "Essential Oil",
+        "efficacy_notes": "Calms the mental noise that blocks intuitive signals; creates the stillness where intuition speaks",
+        "evidence_level": "traditional",
+        "dosage_notes": "Inhale before intuitive practice; or apply diluted oil to third eye point"
       }
     ],
     "compound_names": [
@@ -1367,6 +1679,78 @@
         "efficacy_notes": "Nutrient-dense herb rich in iron and minerals that supports milk production and maternal nutrition during lactation.",
         "evidence_level": "traditional",
         "dosage_notes": "2-3 teaspoons dried leaf per cup, steeped 10-15 minutes. Drink 2-3 cups daily."
+      },
+      {
+        "ailment": "Anemia",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Rich in bioavailable iron, vitamin C, and chlorophyll; nourishes and rebuilds blood",
+        "evidence_level": "clinical",
+        "dosage_notes": "Strong infusion: 1 oz dried leaf in 1 quart boiling water, steep 4 hours, drink throughout day"
+      },
+      {
+        "ailment": "Eczema",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Antihistamine and anti-inflammatory actions address allergic component of eczema",
+        "evidence_level": "traditional",
+        "dosage_notes": "Strong infusion: 1 oz dried leaf in 1 quart water, steep 4 hours; drink daily"
+      },
+      {
+        "ailment": "Gout",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Diuretic action helps flush uric acid; anti-inflammatory compounds reduce joint pain",
+        "evidence_level": "traditional",
+        "dosage_notes": "Strong infusion daily; 1 oz dried leaf in 1 quart water"
+      },
+      {
+        "ailment": "Hair Loss",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Root extract inhibits 5-alpha reductase, reducing DHT-related hair loss; silica strengthens hair",
+        "evidence_level": "clinical",
+        "dosage_notes": "300-600mg root extract daily; also use leaf infusion as hair rinse"
+      },
+      {
+        "ailment": "Hives and Urticaria",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Natural antihistamine; quercetin and other flavonoids stabilize mast cells and reduce histamine release",
+        "evidence_level": "clinical",
+        "dosage_notes": "Strong infusion daily; or freeze-dried capsules 300mg 3x daily"
+      },
+      {
+        "ailment": "Kidney Stones",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Gentle diuretic that increases urine volume; helps flush small stones and prevent formation",
+        "evidence_level": "traditional",
+        "dosage_notes": "Strong infusion daily with ample water intake"
+      },
+      {
+        "ailment": "Osteoporosis",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Exceptionally mineral-rich: calcium, magnesium, silica, boron — all essential for bone density",
+        "evidence_level": "traditional",
+        "dosage_notes": "Strong infusion daily: 1 oz dried leaf in 1 quart water, steep 4 hours"
+      },
+      {
+        "ailment": "Postpartum Recovery",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Iron and mineral-rich; rebuilds blood lost during birth; supports lactation",
+        "evidence_level": "traditional",
+        "dosage_notes": "Strong infusion daily for iron replenishment and nourishment"
+      },
+      {
+        "ailment": "Disconnection from Nature",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Wild nourishing herb that demands we pay attention; reconnects us to the intelligence of weeds and wild places",
+        "evidence_level": "traditional",
+        "dosage_notes": "Harvest your own if possible; strong infusion daily as practice of relationship"
       }
     ],
     "compound_names": [
@@ -1490,6 +1874,70 @@
         "efficacy_notes": "Opens the heart center and softens emotional reactivity, transforming anger into compassion through subtle vibrational medicine.",
         "evidence_level": "traditional",
         "dosage_notes": "1-2 teaspoons dried rose petals per cup, steeped 10 minutes. Drink mindfully."
+      },
+      {
+        "ailment": "Emotional Numbness",
+        "plant_part": "flower",
+        "preparation": "Flower Essence",
+        "efficacy_notes": "Heart-opening plant that gently dissolves emotional armor; activates the capacity to feel again",
+        "evidence_level": "traditional",
+        "dosage_notes": "Rose petal tea 2-3x daily; or 4 drops flower essence under tongue 4x daily"
+      },
+      {
+        "ailment": "Heartbreak",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "The quintessential heart medicine; soothes grief, opens the heart to healing, and restores capacity for love",
+        "evidence_level": "traditional",
+        "dosage_notes": "Rose petal tea 2-3x daily; or add rose water to bath"
+      },
+      {
+        "ailment": "Loneliness and Isolation",
+        "plant_part": "flower",
+        "preparation": "Flower Essence",
+        "efficacy_notes": "Activates self-love as the foundation for all connection; dissolves the belief of unworthiness that drives isolation",
+        "evidence_level": "traditional",
+        "dosage_notes": "Rose petal tea daily; 4 drops flower essence 4x daily"
+      },
+      {
+        "ailment": "Low Self-Esteem",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Activates self-love and reminds one of inherent worthiness; softens self-criticism",
+        "evidence_level": "traditional",
+        "dosage_notes": "Rose petal tea 2-3x daily; use consistently"
+      },
+      {
+        "ailment": "Shame and Guilt",
+        "plant_part": "flower",
+        "preparation": "Flower Essence",
+        "efficacy_notes": "Opens the heart to self-forgiveness; reminds us that worthiness is innate, not earned",
+        "evidence_level": "traditional",
+        "dosage_notes": "Rose petal tea daily; 4 drops flower essence 4x daily"
+      },
+      {
+        "ailment": "Ancestral Healing",
+        "plant_part": "flower",
+        "preparation": "Flower Essence",
+        "efficacy_notes": "Opens the heart to compassion for our lineage; heals grief carried across generations",
+        "evidence_level": "traditional",
+        "dosage_notes": "Rose petal tea during ancestral reflection; 4 drops flower essence 4x daily"
+      },
+      {
+        "ailment": "Dark Night of the Soul",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Holds the heart open when everything says close; beauty medicine for the darkest hours",
+        "evidence_level": "traditional",
+        "dosage_notes": "Rose petal tea as a daily devotional practice through the dark night"
+      },
+      {
+        "ailment": "Loss of Wonder",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Beauty medicine that reminds us the world is miraculous; opens the heart to awe",
+        "evidence_level": "traditional",
+        "dosage_notes": "Rose petal tea daily; take time to smell roses literally and figuratively"
       }
     ],
     "compound_names": [
@@ -1607,6 +2055,38 @@
         "efficacy_notes": "Supports liver detoxification, increases bile production, and provides gentle hepatoprotective effects.",
         "evidence_level": "traditional",
         "dosage_notes": "1-2 teaspoons dried root simmered 10 minutes, 2-3 cups daily."
+      },
+      {
+        "ailment": "Anemia",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "High iron content with vitamin C for absorption; supports liver function for healthy blood production",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried leaf steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Gallbladder Issues",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Bitter compounds stimulate bile production and flow; gentle cholagogue that supports gallbladder function",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried root simmered 10 min, 2-3x daily before meals"
+      },
+      {
+        "ailment": "Kidney Stones",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Potent diuretic that increases urine output; taraxacin supports kidney clearance",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried leaf steeped 10 min, 3-4x daily"
+      },
+      {
+        "ailment": "Inability to Ground",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Taproot medicine that teaches us to anchor deeply; bitter earthiness brings energy downward",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried root simmered 10 min, 2-3x daily; drink with bare feet on earth"
       }
     ],
     "compound_names": [
@@ -1709,6 +2189,22 @@
         "efficacy_notes": "Rosmarinic acid and allantoin together reduce inflammation and promote tissue repair. Topical application targets localized inflammation without systemic PA exposure.",
         "evidence_level": "clinical",
         "dosage_notes": "Apply comfrey poultice or salve to inflamed areas as needed. Combine with internal anti-inflammatory herbs for comprehensive support."
+      },
+      {
+        "ailment": "Back Pain",
+        "plant_part": "root",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Allantoin and rosmarinic acid accelerate tissue repair and reduce inflammation topically",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply topical preparation to affected area 2-3x daily; external use only"
+      },
+      {
+        "ailment": "Tendonitis",
+        "plant_part": "root",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Allantoin accelerates connective tissue repair; clinically proven for tendon and ligament healing",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply comfrey cream to affected tendon 2-3x daily; external use only"
       }
     ],
     "compound_names": [
@@ -1863,6 +2359,46 @@
         "efficacy_notes": "GABAergic anxiolytic with clinical evidence for generalized anxiety disorder, comparable to oxazepam in one trial.",
         "evidence_level": "clinical",
         "dosage_notes": "1-2 teaspoons dried herb per cup, steeped 10-15 minutes. Drink 2-3 cups daily."
+      },
+      {
+        "ailment": "Restless Leg Syndrome",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "GABAergic action calms nervous system and reduces restless limb movements; promotes sleep onset",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 1 hour before bed"
+      },
+      {
+        "ailment": "Sleep Apnea",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Improves sleep quality and architecture without respiratory depression",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 30 min before bed"
+      },
+      {
+        "ailment": "Fear and Phobias",
+        "plant_part": "leaf",
+        "preparation": "Tincture",
+        "efficacy_notes": "GABAergic anxiolytic that calms the fear circuit without cognitive impairment",
+        "evidence_level": "clinical",
+        "dosage_notes": "2-4ml tincture as needed; effective for situational phobias taken 30 min before exposure"
+      },
+      {
+        "ailment": "Mood Swings",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "GABAergic nervine that stabilizes emotional reactivity; smooths the peaks and valleys",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Overwhelm",
+        "plant_part": "leaf",
+        "preparation": "Tincture",
+        "efficacy_notes": "Quiets the racing mind that creates the sensation of overwhelm; creates spaciousness",
+        "evidence_level": "clinical",
+        "dosage_notes": "2-4ml tincture as needed during acute overwhelm"
       }
     ],
     "compound_names": [
@@ -1977,6 +2513,38 @@
         "efficacy_notes": "Premier hemostatic herb that both stops bleeding and supports healthy blood clotting through styptic and astringent actions.",
         "evidence_level": "traditional",
         "dosage_notes": "1-2 teaspoons dried herb per cup, steeped 10-15 minutes. Drink 2-3 cups daily."
+      },
+      {
+        "ailment": "Fever",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Powerful diaphoretic that opens pores and promotes perspiration; traditional fever herb",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, drink hot every 2-3 hours"
+      },
+      {
+        "ailment": "Hemorrhoids",
+        "plant_part": "flower",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Astringent and anti-inflammatory; reduces bleeding and swelling of hemorrhoidal tissue",
+        "evidence_level": "traditional",
+        "dosage_notes": "Apply yarrow ointment topically; or sitz bath with strong yarrow infusion"
+      },
+      {
+        "ailment": "Varicose Veins",
+        "plant_part": "flower",
+        "preparation": "Compress",
+        "efficacy_notes": "Anti-inflammatory and astringent; improves peripheral circulation and reduces venous congestion",
+        "evidence_level": "traditional",
+        "dosage_notes": "Strong infusion applied as compress; or take internally 2-3x daily"
+      },
+      {
+        "ailment": "Psychic Overwhelm",
+        "plant_part": "flower",
+        "preparation": "Flower Essence",
+        "efficacy_notes": "Premier energetic boundary herb; protects empaths and sensitives from absorbing others' energy",
+        "evidence_level": "traditional",
+        "dosage_notes": "4 drops flower essence 4x daily; also drink yarrow tea before entering crowded spaces"
       }
     ],
     "compound_names": [
@@ -2159,6 +2727,54 @@
         "efficacy_notes": "Clinically proven to reduce pregnancy-related nausea and vomiting (morning sickness) safely in the first trimester.",
         "evidence_level": "clinical",
         "dosage_notes": "1 g fresh ginger or 250 mg extract, up to 4 times daily. Do not exceed 1-2 g dried ginger daily."
+      },
+      {
+        "ailment": "Acid Reflux",
+        "plant_part": "root",
+        "preparation": "Infusion",
+        "efficacy_notes": "Promotes gastric motility and reduces gastric stasis that contributes to reflux",
+        "evidence_level": "clinical",
+        "dosage_notes": "1/2 tsp fresh grated ginger in hot water, sip before meals"
+      },
+      {
+        "ailment": "Dry Mouth",
+        "plant_part": "root",
+        "preparation": "Infusion",
+        "efficacy_notes": "Gingerols stimulate salivary gland secretion; traditional sialagogue",
+        "evidence_level": "traditional",
+        "dosage_notes": "Chew small piece of fresh ginger or sip ginger tea throughout the day"
+      },
+      {
+        "ailment": "Fever",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Warming diaphoretic that promotes sweating; gingerols have anti-inflammatory and antimicrobial action",
+        "evidence_level": "traditional",
+        "dosage_notes": "1 inch fresh root simmered 10 min with honey and lemon, drink hot"
+      },
+      {
+        "ailment": "Motion Sickness",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Gingerols and shogaols suppress nausea via serotonin receptor antagonism; clinically proven anti-emetic",
+        "evidence_level": "clinical",
+        "dosage_notes": "250mg dried ginger 30 min before travel, then every 4 hours as needed"
+      },
+      {
+        "ailment": "Tinnitus",
+        "plant_part": "root",
+        "preparation": "Infusion",
+        "efficacy_notes": "Improves circulation to inner ear; anti-inflammatory gingerols may reduce cochlear inflammation",
+        "evidence_level": "traditional",
+        "dosage_notes": "1 inch fresh ginger steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Vertigo and Dizziness",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Anti-emetic and vestibular-calming; reduces nausea and dizziness associated with vertigo",
+        "evidence_level": "clinical",
+        "dosage_notes": "250-500mg dried ginger as needed; or fresh ginger tea"
       }
     ],
     "compound_names": [
@@ -2266,6 +2882,22 @@
         "efficacy_notes": "Rich anthocyanin and vitamin C content supports adrenal function and combats the oxidative stress that underlies fatigue. Immune-building action prevents the energy drain of subclinical infections.",
         "evidence_level": "traditional",
         "dosage_notes": "1 tablespoon elderberry syrup daily as a tonic. Or prepare elderberry-infused honey as a daily nutritive supplement."
+      },
+      {
+        "ailment": "Fever",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Premier diaphoretic; promotes sweating to help the body resolve fever naturally",
+        "evidence_level": "traditional",
+        "dosage_notes": "2 tsp dried flowers steeped 10 min; drink hot, 3-4x daily during fever"
+      },
+      {
+        "ailment": "Sinusitis",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Anti-catarrhal that reduces sinus congestion; anti-inflammatory for sinus membranes",
+        "evidence_level": "traditional",
+        "dosage_notes": "2 tsp dried flowers steeped 10 min, 3-4x daily"
       }
     ],
     "compound_names": [
@@ -2360,6 +2992,22 @@
         "efficacy_notes": "The aromatic compounds calm the nervous system while the bitter principles ground scattered energy. Sage's drying quality addresses the nervous sweating that accompanies stress.",
         "evidence_level": "traditional",
         "dosage_notes": "1 teaspoon dried sage per cup, steeped 10 minutes. Drink 1-2 cups daily. Sage smudging is traditionally used for energetic cleansing and stress clearing."
+      },
+      {
+        "ailment": "Laryngitis",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Antiseptic and astringent; traditional gargle for throat infections and voice loss",
+        "evidence_level": "traditional",
+        "dosage_notes": "2 tsp dried sage steeped covered 15 min; gargle warm, 4-5x daily"
+      },
+      {
+        "ailment": "Sore Throat",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Antiseptic and astringent; clinically proven gargle for pharyngitis and sore throat",
+        "evidence_level": "clinical",
+        "dosage_notes": "2 tsp dried sage steeped covered 15 min; gargle warm every 2-3 hours"
       }
     ],
     "compound_names": [
@@ -2541,6 +3189,54 @@
         "efficacy_notes": "Triterpenes inhibit 5-alpha reductase and aromatase, with immunomodulatory effects supporting anti-cancer immunity.",
         "evidence_level": "clinical",
         "dosage_notes": "3-5 g dried slices simmered 30 minutes, or 1-2 g extract daily."
+      },
+      {
+        "ailment": "Burnout",
+        "plant_part": "fungal_body",
+        "preparation": "Decoction",
+        "efficacy_notes": "Shen tonic that nourishes spirit and rebuilds deep reserves; restores connection to purpose",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "3-5g dried mushroom simmered 30 min, or 1-2g extract daily"
+      },
+      {
+        "ailment": "Nervous Exhaustion",
+        "plant_part": "fungal_body",
+        "preparation": "Decoction",
+        "efficacy_notes": "Shen tonic that calms an exhausted spirit; restores deep reserves and reconnects to inner stillness",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "3-5g dried mushroom simmered 30 min, or 1-2g extract daily"
+      },
+      {
+        "ailment": "Dark Night of the Soul",
+        "plant_part": "fungal_body",
+        "preparation": "Decoction",
+        "efficacy_notes": "Shen tonic for spiritual crisis; nourishes the spirit through the deepest passages of transformation",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "3-5g dried mushroom simmered 30 min daily; use through the duration of the passage"
+      },
+      {
+        "ailment": "Energetic Depletion",
+        "plant_part": "fungal_body",
+        "preparation": "Decoction",
+        "efficacy_notes": "Supreme qi and shen tonic; rebuilds the energetic body from the spiritual level down",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "3-5g dried mushroom simmered 30 min daily; long-term use for deep restoration"
+      },
+      {
+        "ailment": "Loss of Purpose",
+        "plant_part": "fungal_body",
+        "preparation": "Decoction",
+        "efficacy_notes": "Shen tonic that reconnects to spiritual purpose; the mushroom of immortality that reminds us why we're here",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "3-5g dried mushroom simmered 30 min daily"
+      },
+      {
+        "ailment": "Spiritual Fatigue",
+        "plant_part": "fungal_body",
+        "preparation": "Decoction",
+        "efficacy_notes": "The supreme shen tonic; rebuilds spiritual reserves and reconnects to the source of inner light",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "3-5g dried mushroom simmered 30 min daily; long-term spiritual nourishment"
       }
     ],
     "compound_names": [
@@ -4724,6 +5420,38 @@
         "efficacy_notes": "Theobromine and procyanidins promote vasodilation and improve peripheral blood flow. Clinical evidence supports cacao flavanols for endothelial function and blood pressure.",
         "evidence_level": "clinical",
         "dosage_notes": "20-30g ceremonial-grade cacao daily, or standardized flavanol supplement as directed."
+      },
+      {
+        "ailment": "Emotional Numbness",
+        "plant_part": "seed_fruit",
+        "preparation": "Decoction",
+        "efficacy_notes": "Theobromine and phenylethylamine open the heart; traditional ceremonial medicine for emotional reconnection",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "Ceremonial dose: 20-40g raw cacao in hot water; daily: 10-15g"
+      },
+      {
+        "ailment": "Loneliness and Isolation",
+        "plant_part": "seed_fruit",
+        "preparation": "Decoction",
+        "efficacy_notes": "Heart-opening medicine used in community ceremony; theobromine creates warmth and oxytocin-like connection",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "10-20g raw cacao in warm water, ideally shared with others"
+      },
+      {
+        "ailment": "Blocked Creativity",
+        "plant_part": "seed_fruit",
+        "preparation": "Decoction",
+        "efficacy_notes": "Opens heart-mind connection where authentic creativity flows; theobromine stimulates without anxiety",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "15-25g raw cacao in warm water with intention before creative work"
+      },
+      {
+        "ailment": "Loss of Wonder",
+        "plant_part": "seed_fruit",
+        "preparation": "Decoction",
+        "efficacy_notes": "Heart-opening medicine that restores childlike awe; theobromine lifts the veil of cynicism",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "15-25g raw cacao in warm water; drink with intention to see the world freshly"
       }
     ],
     "compound_names": [
@@ -4840,6 +5568,38 @@
         "efficacy_notes": "Bitter and aromatic principles stimulate digestive secretions and relieve sluggishness. Warming action helps move stagnant food and energy through the gut.",
         "evidence_level": "traditional",
         "dosage_notes": "1 teaspoon dried leaf per cup, steeped 10 minutes. Drink before meals."
+      },
+      {
+        "ailment": "Erectile Dysfunction",
+        "plant_part": "leaf",
+        "preparation": "Tincture",
+        "efficacy_notes": "Stimulates pelvic blood flow and nervous system; traditional Mexican aphrodisiac",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture 2-3x daily"
+      },
+      {
+        "ailment": "Emotional Numbness",
+        "plant_part": "leaf",
+        "preparation": "Tincture",
+        "efficacy_notes": "Warming nervine that rekindles passion and sensory awareness; activates embodied feeling",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture 2-3x daily"
+      },
+      {
+        "ailment": "Low Self-Esteem",
+        "plant_part": "leaf",
+        "preparation": "Tincture",
+        "efficacy_notes": "Warming nervine that reconnects one to pleasure, vitality, and embodied confidence",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture 2-3x daily"
+      },
+      {
+        "ailment": "Blocked Creativity",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Ignites creative fire and passion; activates the sacral energy center where creative impulse originates",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried leaf steeped 10 min, 2-3x daily when seeking creative flow"
       }
     ],
     "compound_names": [
@@ -6330,6 +7090,38 @@
         "efficacy_notes": "GABAergic sedative that raises seizure threshold and reduces neuronal excitability, with historical use for convulsive disorders.",
         "evidence_level": "traditional",
         "dosage_notes": "2-4 ml tincture 2-3 times daily. Work with prescribing physician."
+      },
+      {
+        "ailment": "Muscle Cramps and Spasms",
+        "plant_part": "root",
+        "preparation": "Tincture",
+        "efficacy_notes": "Valerenic acid acts on GABA receptors to relax skeletal muscle and reduce spasm",
+        "evidence_level": "clinical",
+        "dosage_notes": "2-4ml tincture as needed; or 300-600mg extract"
+      },
+      {
+        "ailment": "Restless Leg Syndrome",
+        "plant_part": "root",
+        "preparation": "Tincture",
+        "efficacy_notes": "GABA-modulating action reduces involuntary leg movements and promotes restful sleep",
+        "evidence_level": "clinical",
+        "dosage_notes": "300-600mg extract or 2-4ml tincture 1 hour before bed"
+      },
+      {
+        "ailment": "Sleep Apnea",
+        "plant_part": "root",
+        "preparation": "Tincture",
+        "efficacy_notes": "Promotes deeper, more regular sleep patterns; may improve upper airway muscle tone during sleep",
+        "evidence_level": "traditional",
+        "dosage_notes": "300-600mg extract 1 hour before bed"
+      },
+      {
+        "ailment": "Vertigo and Dizziness",
+        "plant_part": "root",
+        "preparation": "Tincture",
+        "efficacy_notes": "Calms vestibular nerve excitability; reduces spinning sensation and associated anxiety",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture as needed during episodes"
       }
     ],
     "compound_names": [
@@ -6438,6 +7230,30 @@
         "efficacy_notes": "Applied topically or taken internally to accelerate wound healing through immune activation and mild antimicrobial action.",
         "evidence_level": "traditional",
         "dosage_notes": "Dilute tincture 1:3 with water for topical application. Internally, 30-60 drops 3 times daily."
+      },
+      {
+        "ailment": "Cold Sores",
+        "plant_part": "root",
+        "preparation": "Tincture",
+        "efficacy_notes": "Immune-modulating alkylamides and polysaccharides help suppress HSV outbreaks",
+        "evidence_level": "clinical",
+        "dosage_notes": "2-4ml tincture 3x daily at onset of outbreak"
+      },
+      {
+        "ailment": "Lymphatic Stagnation",
+        "plant_part": "root",
+        "preparation": "Tincture",
+        "efficacy_notes": "Stimulates lymphocyte activity and lymphatic movement; clears lymphatic congestion",
+        "evidence_level": "clinical",
+        "dosage_notes": "2-4ml tincture 3x daily for 2-3 week courses"
+      },
+      {
+        "ailment": "Sore Throat",
+        "plant_part": "root",
+        "preparation": "Tincture",
+        "efficacy_notes": "Immune-stimulating and antimicrobial; alkylamides produce characteristic throat tingling that soothes pain",
+        "evidence_level": "clinical",
+        "dosage_notes": "2-4ml tincture gargled then swallowed, every 2-3 hours at onset"
       }
     ],
     "compound_names": [
@@ -6552,6 +7368,14 @@
         "efficacy_notes": "Silymarin is clinically proven to protect hepatocytes, promote liver regeneration, and reduce fibrosis in various liver diseases.",
         "evidence_level": "clinical",
         "dosage_notes": "140-420 mg silymarin daily in divided doses."
+      },
+      {
+        "ailment": "Gallbladder Issues",
+        "plant_part": "seed_fruit",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Silymarin supports bile flow and protects hepatobiliary system; may help prevent gallstone formation",
+        "evidence_level": "clinical",
+        "dosage_notes": "200-400mg standardized silymarin extract, 2-3x daily"
       }
     ],
     "compound_names": [
@@ -6693,6 +7517,54 @@
         "efficacy_notes": "Clinical evidence supports hawthorn for congestive heart failure, improving cardiac output, exercise tolerance, and reducing symptoms.",
         "evidence_level": "clinical",
         "dosage_notes": "160-900 mg standardized extract daily in divided doses, or 2-4 ml tincture twice daily."
+      },
+      {
+        "ailment": "Tinnitus",
+        "plant_part": "seed_fruit",
+        "preparation": "Tincture",
+        "efficacy_notes": "Cardiovascular tonic that improves peripheral and cochlear circulation",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture 3x daily; use consistently for 2-3 months"
+      },
+      {
+        "ailment": "Vertigo and Dizziness",
+        "plant_part": "seed_fruit",
+        "preparation": "Tincture",
+        "efficacy_notes": "Improves cerebral circulation; addresses cardiovascular-related dizziness",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture 3x daily"
+      },
+      {
+        "ailment": "Emotional Numbness",
+        "plant_part": "seed_fruit",
+        "preparation": "Tincture",
+        "efficacy_notes": "Heart tonic that works on physical and emotional heart simultaneously; reconnects feeling to the body",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture 3x daily; use long-term for deep emotional work"
+      },
+      {
+        "ailment": "Heartbreak",
+        "plant_part": "seed_fruit",
+        "preparation": "Tincture",
+        "efficacy_notes": "Physical and emotional heart healer; strengthens a heart broken by loss; traditional grief remedy",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture 3x daily; use for extended periods during grieving"
+      },
+      {
+        "ailment": "Shame and Guilt",
+        "plant_part": "seed_fruit",
+        "preparation": "Tincture",
+        "efficacy_notes": "Heart protector and healer; helps process shame held in the heart space; facilitates emotional release",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture 3x daily"
+      },
+      {
+        "ailment": "Dark Night of the Soul",
+        "plant_part": "seed_fruit",
+        "preparation": "Tincture",
+        "efficacy_notes": "Protects and strengthens the heart through spiritual ordeal; the thorns that guard the sacred",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture 3x daily throughout the passage"
       }
     ],
     "compound_names": [
@@ -6934,6 +7806,54 @@
         "efficacy_notes": "Moistening and healing properties support repair of dry, damaged mucosal tissues.",
         "evidence_level": "traditional",
         "dosage_notes": "1-2 teaspoons dried flowers per cup, steeped 10-15 minutes. Drink 2-3 cups daily."
+      },
+      {
+        "ailment": "Eczema",
+        "plant_part": "flower",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Anti-inflammatory triterpenoids and flavonoids soothe dermatitis; promotes skin barrier repair",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply calendula cream to affected areas 2-3x daily"
+      },
+      {
+        "ailment": "Gastritis",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Anti-inflammatory and vulnerary; promotes healing of damaged gastric mucosa",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried flowers steeped 10 min, 3x daily"
+      },
+      {
+        "ailment": "Hemorrhoids",
+        "plant_part": "flower",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Anti-inflammatory and vulnerary; promotes healing of damaged hemorrhoidal tissue",
+        "evidence_level": "traditional",
+        "dosage_notes": "Apply calendula ointment 2-3x daily after cleansing"
+      },
+      {
+        "ailment": "Hives and Urticaria",
+        "plant_part": "flower",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Soothes inflamed skin; anti-inflammatory triterpenoids reduce urticarial swelling",
+        "evidence_level": "traditional",
+        "dosage_notes": "Apply calendula cream to affected areas as needed"
+      },
+      {
+        "ailment": "Lymphatic Stagnation",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Lymphagogue that stimulates lymphatic circulation; reduces swollen lymph nodes",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried flowers steeped 10 min, 3x daily"
+      },
+      {
+        "ailment": "Rosacea",
+        "plant_part": "flower",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Anti-inflammatory and skin-healing; reduces redness without irritating sensitive skin",
+        "evidence_level": "traditional",
+        "dosage_notes": "Apply calendula cream to affected areas morning and evening"
       }
     ],
     "compound_names": [
@@ -7095,6 +8015,94 @@
         "efficacy_notes": "Calming nervine that reduces anxiety and agitation in psychiatric conditions through GABA-transaminase inhibition.",
         "evidence_level": "clinical",
         "dosage_notes": "2-3 teaspoons dried leaf per cup, steeped 10-15 minutes. Drink 2-3 cups daily."
+      },
+      {
+        "ailment": "Cold Sores",
+        "plant_part": "leaf",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Rosmarinic acid and polyphenols have potent anti-HSV activity; speeds healing and reduces recurrence",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply lemon balm cream/lip balm to affected area 3-4x daily at first tingle"
+      },
+      {
+        "ailment": "Motion Sickness",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Carminative and mild sedative; calms nervous system component of motion sickness",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, drink before and during travel"
+      },
+      {
+        "ailment": "Shingles",
+        "plant_part": "leaf",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Potent antiviral against herpes zoster; rosmarinic acid inhibits viral replication and soothes nerve pain",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply lemon balm cream to affected area 4x daily; also drink as tea"
+      },
+      {
+        "ailment": "Vertigo and Dizziness",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Nervine that calms vestibular system overactivation; reduces anxiety component of vertigo",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Emotional Numbness",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Gentle nervine that lifts spirits and restores emotional responsiveness; solar herb that brings warmth",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Fear and Phobias",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "GABAergic nervine that reduces fear response and restores courage; calms without sedating",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 2-3x daily or before anxiety-provoking situations"
+      },
+      {
+        "ailment": "Heartbreak",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Solar herb that lifts heavy-heartedness; Paracelsus called it the 'elixir of life' for its heart-cheering quality",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Low Self-Esteem",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Solar herb that lifts spirits and restores cheerful self-regard; brings lightness to heavy self-judgment",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Mood Swings",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Gently stabilizes mood through nervous system support; lifts when low, calms when agitated",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Overwhelm",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Clears mental fog and reduces panic of overwhelm; restores the ability to prioritize and think clearly",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min; sip throughout overwhelming moments"
+      },
+      {
+        "ailment": "Loss of Wonder",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Solar herb of joy that lifts heaviness and restores delight in simple things",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp fresh or dried herb steeped 10 min, 2-3x daily"
       }
     ],
     "compound_names": [
@@ -7204,6 +8212,30 @@
         "efficacy_notes": "Menthol activates cold receptors in the nasal passages, creating a sensation of improved airflow. Steam inhalation with peppermint effectively relieves nasal and sinus congestion.",
         "evidence_level": "clinical",
         "dosage_notes": "Add 3-5 drops essential oil to a bowl of hot water for steam inhalation, 2-3 times daily. Or drink strong peppermint infusion."
+      },
+      {
+        "ailment": "Fever",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Menthol provides cooling sensation and mild diaphoretic action; combines well with elderflower and yarrow",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried leaf steeped 10 min; combine with elderflower for traditional fever tea"
+      },
+      {
+        "ailment": "Motion Sickness",
+        "plant_part": "leaf",
+        "preparation": "Essential Oil",
+        "efficacy_notes": "Menthol calms gastric smooth muscle and reduces nausea; aromatic inhalation provides quick relief",
+        "evidence_level": "clinical",
+        "dosage_notes": "Inhale from bottle or apply 1 drop to temples; or sip peppermint tea"
+      },
+      {
+        "ailment": "Sleep Apnea",
+        "plant_part": "leaf",
+        "preparation": "Essential Oil",
+        "efficacy_notes": "Menthol reduces airway inflammation and opens nasal passages; may reduce apneic events",
+        "evidence_level": "anecdotal",
+        "dosage_notes": "Gargle with peppermint water before bed; or diffuse essential oil in bedroom"
       }
     ],
     "compound_names": [
@@ -7310,6 +8342,38 @@
         "efficacy_notes": "Carminative action relieves bloating and gas. Antimicrobial properties help address small intestinal bacterial overgrowth.",
         "evidence_level": "traditional",
         "dosage_notes": "1 teaspoon dried herb per cup, steeped 10 minutes. Drink after meals."
+      },
+      {
+        "ailment": "Bronchitis",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Thymol is a powerful antimicrobial and expectorant; relaxes bronchial spasms and thins mucus",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 3-4x daily"
+      },
+      {
+        "ailment": "Laryngitis",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Thymol is antimicrobial and antispasmodic; soothes laryngeal inflammation and fights infection",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min; gargle and drink, 3-4x daily"
+      },
+      {
+        "ailment": "Sinusitis",
+        "plant_part": "leaf",
+        "preparation": "Steam Inhalation",
+        "efficacy_notes": "Thymol is antimicrobial and mucolytic; clears infected sinus passages",
+        "evidence_level": "traditional",
+        "dosage_notes": "2 tsp dried herb in hot water for steam inhalation, 2-3x daily"
+      },
+      {
+        "ailment": "Sore Throat",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Thymol is strongly antimicrobial; gargle kills throat pathogens and reduces inflammation",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp steeped 10 min; gargle and drink, 3-4x daily"
       }
     ],
     "compound_names": [
@@ -7421,6 +8485,14 @@
         "efficacy_notes": "Potent antioxidant activity supports overall immune function. Regular dietary use provides ongoing antimicrobial protection.",
         "evidence_level": "traditional",
         "dosage_notes": "Regular culinary use. For therapeutic support, 1-2 cups of strong infusion daily during seasons of vulnerability."
+      },
+      {
+        "ailment": "Candida Overgrowth",
+        "plant_part": "leaf",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Carvacrol and thymol disrupt Candida cell membranes; clinically effective antifungal",
+        "evidence_level": "clinical",
+        "dosage_notes": "Oil of oregano capsules: 200mg 2x daily with meals; short courses of 2-4 weeks"
       }
     ],
     "compound_names": [
@@ -7548,6 +8620,14 @@
         "efficacy_notes": "Mucilaginous and anti-inflammatory properties protect and heal damaged colonic mucosa.",
         "evidence_level": "traditional",
         "dosage_notes": "1-2 teaspoons dried leaf per cup, steeped 10-15 minutes. Drink 2-3 cups daily."
+      },
+      {
+        "ailment": "Hemorrhoids",
+        "plant_part": "leaf",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Aucubin and allantoin reduce inflammation and promote tissue healing; soothing demulcent",
+        "evidence_level": "traditional",
+        "dosage_notes": "Apply plantain salve to affected area 2-3x daily"
       }
     ],
     "compound_names": [
@@ -7652,6 +8732,22 @@
         "efficacy_notes": "Antispasmodic and expectorant properties make it useful for dry, spasmodic coughs, particularly in children and the elderly.",
         "evidence_level": "traditional",
         "dosage_notes": "1-2 teaspoons dried flowers per cup, steeped 15 minutes. Drink 3 times daily. Sweeten with honey for cough relief."
+      },
+      {
+        "ailment": "Lymphatic Stagnation",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Alterative and lymphatic cleanser; supports lymph drainage and blood purification",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried blossoms steeped 15 min, 3x daily"
+      },
+      {
+        "ailment": "Osteoporosis",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Isoflavones support bone density in postmenopausal women; mineral-rich bone-building tea",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp dried blossoms steeped 15 min, 2-3x daily"
       }
     ],
     "compound_names": [
@@ -7767,6 +8863,14 @@
         "efficacy_notes": "Antacid and stomach-settling properties relieve nausea, acid reflux, and general dyspepsia. Particularly effective for acid-driven gastric discomfort.",
         "evidence_level": "traditional",
         "dosage_notes": "1 teaspoon dried flowers per cup, steeped 10 minutes. Sip slowly as needed."
+      },
+      {
+        "ailment": "Gastritis",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Paradoxically protective despite containing salicylates; mucilage content protects stomach lining while reducing inflammation",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 3x daily"
       }
     ],
     "compound_names": [
@@ -7937,6 +9041,62 @@
         "efficacy_notes": "Demulcent properties soothe urinary tract irritation and support kidney function through gentle diuretic action.",
         "evidence_level": "traditional",
         "dosage_notes": "1-2 tablespoons dried root soaked in cold water overnight."
+      },
+      {
+        "ailment": "Acid Reflux",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Mucilaginous compounds coat and soothe inflamed esophageal and stomach lining, reducing acid irritation",
+        "evidence_level": "clinical",
+        "dosage_notes": "Cold infusion: 1 tbsp root in 1 cup cold water overnight, drink before meals"
+      },
+      {
+        "ailment": "Cystitis",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Mucilage soothes inflamed urinary tract lining and reduces burning sensation",
+        "evidence_level": "traditional",
+        "dosage_notes": "Cold infusion: 1 tbsp root in cold water overnight; drink throughout day"
+      },
+      {
+        "ailment": "Diverticulitis",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Mucilaginous compounds coat and protect inflamed intestinal lining",
+        "evidence_level": "traditional",
+        "dosage_notes": "Cold infusion: 1 tbsp root soaked in cold water overnight, drink throughout day"
+      },
+      {
+        "ailment": "Dry Mouth",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Mucilage stimulates salivary glands and coats oral mucosa to relieve dryness",
+        "evidence_level": "traditional",
+        "dosage_notes": "Sip cold infusion throughout the day; swish before swallowing"
+      },
+      {
+        "ailment": "Gastritis",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Mucilage coats and protects inflamed stomach lining; reduces acid irritation",
+        "evidence_level": "traditional",
+        "dosage_notes": "Cold infusion: 1 tbsp root in cold water overnight, drink before meals"
+      },
+      {
+        "ailment": "Laryngitis",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Mucilage soothes and coats inflamed laryngeal tissue; reduces irritation and promotes healing",
+        "evidence_level": "traditional",
+        "dosage_notes": "Cold infusion: sip slowly throughout the day; gargle before swallowing"
+      },
+      {
+        "ailment": "Sore Throat",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Mucilage coats and soothes inflamed throat tissue; reduces pain and irritation",
+        "evidence_level": "clinical",
+        "dosage_notes": "Cold infusion sipped slowly; gargle before swallowing"
       }
     ],
     "compound_names": [
@@ -8047,6 +9207,22 @@
         "efficacy_notes": "Mullein flower oil applied topically soothes neuralgic pain, especially in the ear and along the trigeminal nerve distribution.",
         "evidence_level": "traditional",
         "dosage_notes": "Infused flower oil applied topically to painful areas 2-3 times daily. For ear pain: 2-3 drops of warm mullein flower oil in the affected ear."
+      },
+      {
+        "ailment": "Asthma",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Expectorant and bronchial anti-inflammatory; relaxes bronchial smooth muscle and clears mucus",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried leaf steeped 10 min, 3x daily; strain well through cloth"
+      },
+      {
+        "ailment": "Bronchitis",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Soothes inflamed bronchial passages, promotes expectoration, and has mild antimicrobial action",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried leaf steeped 10 min, 3x daily; strain through cloth"
       }
     ],
     "compound_names": [
@@ -8184,6 +9360,38 @@
         "efficacy_notes": "Nervine and antispasmodic that reduces neuronal excitability. Historically used for convulsive disorders.",
         "evidence_level": "traditional",
         "dosage_notes": "2-4 ml tincture 2-3 times daily."
+      },
+      {
+        "ailment": "Restless Leg Syndrome",
+        "plant_part": "leaf",
+        "preparation": "Tincture",
+        "efficacy_notes": "Nervine that calms overactive nerve impulses; specific for nervous restlessness and twitching",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture in evening; repeat at bedtime"
+      },
+      {
+        "ailment": "Fear and Phobias",
+        "plant_part": "leaf",
+        "preparation": "Tincture",
+        "efficacy_notes": "Nervine that quiets fear-based thought loops; resets overactivated fight-or-flight response",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture as needed; or 1-2 tsp dried herb as tea"
+      },
+      {
+        "ailment": "Nervous Exhaustion",
+        "plant_part": "leaf",
+        "preparation": "Tincture",
+        "efficacy_notes": "Nervine tonic that rebuilds while calming; specific for nervous depletion from overwork or overstimulation",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture 3x daily"
+      },
+      {
+        "ailment": "Psychic Overwhelm",
+        "plant_part": "leaf",
+        "preparation": "Tincture",
+        "efficacy_notes": "Shields an overly permeable nervous system; creates healthy energetic boundaries for sensitives",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture as needed when overwhelmed; or 3x daily preventatively"
       }
     ],
     "compound_names": [
@@ -8323,6 +9531,30 @@
         "efficacy_notes": "Cardiotonic that reduces heart palpitations and anxiety-related cardiac symptoms while supporting heart function.",
         "evidence_level": "traditional",
         "dosage_notes": "2-4 ml tincture 2-3 times daily."
+      },
+      {
+        "ailment": "Postpartum Recovery",
+        "plant_part": "leaf",
+        "preparation": "Tincture",
+        "efficacy_notes": "Uterine tonic and nervine; calms postpartum anxiety while supporting uterine recovery",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture 2-3x daily"
+      },
+      {
+        "ailment": "Fear and Phobias",
+        "plant_part": "leaf",
+        "preparation": "Tincture",
+        "efficacy_notes": "Calms heart palpitations from fear; brings courage (lion-hearted herb); specific for panic with heart symptoms",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture at onset of fear or panic; repeat as needed"
+      },
+      {
+        "ailment": "Heartbreak",
+        "plant_part": "leaf",
+        "preparation": "Tincture",
+        "efficacy_notes": "Calms the aching heart; specific for grief with heart palpitations and anxiety",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-4ml tincture 2-3x daily"
       }
     ],
     "compound_names": [
@@ -8557,6 +9789,38 @@
         "efficacy_notes": "Blood-cleansing and hepatoprotective herb that supports liver function and detoxification pathways.",
         "evidence_level": "traditional",
         "dosage_notes": "1-2 teaspoons dried root simmered 10-15 minutes, 2-3 cups daily."
+      },
+      {
+        "ailment": "Dandruff and Scalp Conditions",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Blood-purifying alterative that addresses scalp conditions from within; traditional remedy for skin disorders",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried root simmered 15 min, 2-3x daily; also use cooled decoction as scalp rinse"
+      },
+      {
+        "ailment": "Eczema",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Alterative that addresses eczema from within; supports liver detoxification and reduces inflammatory skin conditions",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried root simmered 15 min, 2-3x daily"
+      },
+      {
+        "ailment": "Hives and Urticaria",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Alterative that addresses allergic skin conditions from within; supports liver clearance of allergens",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried root simmered 15 min, 2-3x daily"
+      },
+      {
+        "ailment": "Lymphatic Stagnation",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Alterative that supports lymphatic and blood purification; gentle detoxification",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried root simmered 15 min, 2-3x daily"
       }
     ],
     "compound_names": [
@@ -8656,6 +9920,22 @@
         "efficacy_notes": "Berberine demonstrates broad-spectrum antifungal activity, effective topically and internally",
         "evidence_level": "clinical",
         "dosage_notes": "Apply diluted tincture topically or take 1-2 mL internally three times daily"
+      },
+      {
+        "ailment": "Cystitis",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Berberine is a potent antimicrobial effective against UTI-causing bacteria including E. coli",
+        "evidence_level": "clinical",
+        "dosage_notes": "500mg standardized extract 3x daily during acute infection"
+      },
+      {
+        "ailment": "Sinusitis",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Berberine is antimicrobial against sinus infection pathogens; astringent action reduces mucus",
+        "evidence_level": "clinical",
+        "dosage_notes": "500mg 3x daily during acute infection; limit to 2-3 week courses"
       }
     ],
     "compound_names": [
@@ -8773,6 +10053,30 @@
         "efficacy_notes": "Addresses depressive symptoms associated with hormonal transitions, particularly perimenopause",
         "evidence_level": "clinical",
         "dosage_notes": "1-2 mL tincture twice daily"
+      },
+      {
+        "ailment": "Muscle Cramps and Spasms",
+        "plant_part": "root",
+        "preparation": "Tincture",
+        "efficacy_notes": "Antispasmodic and anti-inflammatory; traditionally used for muscular pain and spasm",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2ml tincture 2-3x daily"
+      },
+      {
+        "ailment": "Osteoporosis",
+        "plant_part": "root",
+        "preparation": "Tincture",
+        "efficacy_notes": "Supports bone density in menopausal women; modulates estrogen-related bone resorption",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2ml tincture 2x daily; or 40mg standardized extract"
+      },
+      {
+        "ailment": "Tinnitus",
+        "plant_part": "root",
+        "preparation": "Tincture",
+        "efficacy_notes": "Anti-inflammatory and circulatory effects may reduce tinnitus; traditional remedy for ear ringing",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2ml tincture 2-3x daily"
       }
     ],
     "compound_names": [
@@ -8879,6 +10183,22 @@
         "efficacy_notes": "Aescin strengthens blood vessel walls and improves venous return, supporting overall peripheral vascular health.",
         "evidence_level": "clinical",
         "dosage_notes": "300 mg extract standardized to 50 mg aescin, twice daily."
+      },
+      {
+        "ailment": "Hemorrhoids",
+        "plant_part": "seed_fruit",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Aescin strengthens venous walls and reduces swelling; clinically proven for hemorrhoidal veins",
+        "evidence_level": "clinical",
+        "dosage_notes": "300mg standardized extract (50mg aescin) 2x daily"
+      },
+      {
+        "ailment": "Varicose Veins",
+        "plant_part": "seed_fruit",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Aescin strengthens venous walls and valves; reduces venous permeability and swelling",
+        "evidence_level": "clinical",
+        "dosage_notes": "300mg standardized extract (50mg aescin) 2x daily"
       }
     ],
     "compound_names": [
@@ -8991,6 +10311,14 @@
         "efficacy_notes": "Lymphatic support enhances immune surveillance by promoting fluid circulation through lymph nodes",
         "evidence_level": "ethnobotanical",
         "dosage_notes": "2-3 cups infusion daily as a spring tonic"
+      },
+      {
+        "ailment": "Lymphatic Stagnation",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Premier lymphatic herb; stimulates lymph flow and drainage; traditional spring tonic",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-3 tsp dried herb steeped 10 min, 3x daily; best as fresh juice if available"
       }
     ],
     "compound_names": [
@@ -9427,6 +10755,22 @@
         "efficacy_notes": "Traditional vermifuge, with volatile oils showing activity against intestinal parasites",
         "evidence_level": "ethnobotanical",
         "dosage_notes": "Strong decoction taken on an empty stomach under practitioner guidance"
+      },
+      {
+        "ailment": "Asthma",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Contains inulin and alantolactone; soothes bronchial inflammation and acts as expectorant",
+        "evidence_level": "traditional",
+        "dosage_notes": "1 tsp dried root simmered 15 min, 3x daily"
+      },
+      {
+        "ailment": "Bronchitis",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Specific for deep bronchial infections; antimicrobial sesquiterpene lactones combined with expectorant action",
+        "evidence_level": "traditional",
+        "dosage_notes": "1 tsp dried root simmered 15 min, 3x daily"
       }
     ],
     "compound_names": [
@@ -9533,6 +10877,22 @@
         "efficacy_notes": "General tonic and warming stimulant that restores vitality, especially in cold and depleted constitutions",
         "evidence_level": "ethnobotanical",
         "dosage_notes": "2 mL tincture twice daily"
+      },
+      {
+        "ailment": "Ancestral Healing",
+        "plant_part": "root",
+        "preparation": "Tincture",
+        "efficacy_notes": "Named for archangels; traditional herb for protection and connection to benevolent ancestral spirits",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "15-30 drops tincture before ancestral work; or carry root as protective talisman"
+      },
+      {
+        "ailment": "Inability to Ground",
+        "plant_part": "root",
+        "preparation": "Tincture",
+        "efficacy_notes": "Massive root system teaches embodied presence; traditional protector that anchors spirit in body",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "15-30 drops tincture 2-3x daily"
       }
     ],
     "compound_names": [
@@ -9885,6 +11245,30 @@
         "efficacy_notes": "Restores energy and supports adrenal gland function through adaptogenic modulation of the HPA axis.",
         "evidence_level": "clinical",
         "dosage_notes": "200-400 mg standardized extract daily."
+      },
+      {
+        "ailment": "Erectile Dysfunction",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Ginsenosides promote nitric oxide synthesis and improve penile blood flow; clinically validated",
+        "evidence_level": "clinical",
+        "dosage_notes": "900mg Korean red ginseng 3x daily"
+      },
+      {
+        "ailment": "Low Blood Pressure",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Adaptogen that normalizes blood pressure; ginsenosides support cardiovascular tone",
+        "evidence_level": "clinical",
+        "dosage_notes": "200-400mg standardized extract daily"
+      },
+      {
+        "ailment": "Loss of Purpose",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Root shaped like a human; the 'man root' that restores vital force and direction in life",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "200-400mg standardized extract daily in morning"
       }
     ],
     "compound_names": [
@@ -10022,6 +11406,22 @@
         "efficacy_notes": "Improves peripheral circulation and microvascular blood flow, reducing the frequency and severity of vasospastic episodes.",
         "evidence_level": "clinical",
         "dosage_notes": "120-240 mg standardized extract daily in divided doses."
+      },
+      {
+        "ailment": "Asthma",
+        "plant_part": "leaf",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "PAF antagonist properties reduce airway inflammation and bronchoconstriction",
+        "evidence_level": "clinical",
+        "dosage_notes": "120-240mg standardized extract daily in divided doses"
+      },
+      {
+        "ailment": "Tinnitus",
+        "plant_part": "leaf",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Improves cochlear blood flow and reduces neural hyperexcitability that causes ringing",
+        "evidence_level": "clinical",
+        "dosage_notes": "120-240mg standardized extract daily in divided doses for 8-12 weeks minimum"
       }
     ],
     "compound_names": [
@@ -10286,6 +11686,70 @@
         "efficacy_notes": "Curcumin inhibits cancer cell proliferation, induces apoptosis, and modulates estrogen receptor activity in hormone-sensitive cancers.",
         "evidence_level": "clinical",
         "dosage_notes": "500-1000 mg curcumin with piperine, 2-3 times daily with food. Use as adjunct under oncologist guidance."
+      },
+      {
+        "ailment": "Back Pain",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Curcumin inhibits NF-kB inflammatory pathway; reduces chronic musculoskeletal pain",
+        "evidence_level": "clinical",
+        "dosage_notes": "500-1000mg curcumin with piperine, 2x daily"
+      },
+      {
+        "ailment": "Diverticulitis",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Curcumin reduces intestinal inflammation via NF-kB pathway inhibition",
+        "evidence_level": "clinical",
+        "dosage_notes": "500mg curcumin with piperine, 2x daily between flares"
+      },
+      {
+        "ailment": "Gallbladder Issues",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Curcumin stimulates gallbladder contraction and bile flow; anti-inflammatory for biliary system",
+        "evidence_level": "clinical",
+        "dosage_notes": "500mg curcumin 2x daily; avoid with gallstones causing obstruction"
+      },
+      {
+        "ailment": "Gout",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Curcumin inhibits xanthine oxidase, reducing uric acid production; potent joint anti-inflammatory",
+        "evidence_level": "clinical",
+        "dosage_notes": "500-1000mg curcumin with piperine, 2x daily"
+      },
+      {
+        "ailment": "Hives and Urticaria",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Curcumin inhibits histamine release from mast cells and reduces inflammatory cascade",
+        "evidence_level": "clinical",
+        "dosage_notes": "500mg curcumin with piperine, 2x daily"
+      },
+      {
+        "ailment": "Sciatica",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Curcumin reduces neural inflammation and pain signaling along the sciatic nerve",
+        "evidence_level": "clinical",
+        "dosage_notes": "500-1000mg curcumin with piperine, 2x daily"
+      },
+      {
+        "ailment": "Tendonitis",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Curcumin reduces tendon inflammation and supports collagen repair",
+        "evidence_level": "clinical",
+        "dosage_notes": "500-1000mg curcumin with piperine, 2x daily"
+      },
+      {
+        "ailment": "Type 2 Diabetes",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Curcumin improves insulin sensitivity and reduces diabetic inflammation",
+        "evidence_level": "clinical",
+        "dosage_notes": "500mg curcumin with piperine, 2x daily"
       }
     ],
     "compound_names": [
@@ -10447,6 +11911,62 @@
         "efficacy_notes": "Reduces fasting and postprandial blood glucose through multiple mechanisms including enhanced insulin secretion.",
         "evidence_level": "clinical",
         "dosage_notes": "1-2 teaspoons dried leaf per cup, steeped 10 minutes. Drink 2-3 cups daily."
+      },
+      {
+        "ailment": "Burnout",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Adaptogenic nervine that protects against stress-related depletion; restores purpose and clarity",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Loneliness and Isolation",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Sacred basil that connects one to something greater; reduces isolation by restoring spiritual connection",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Overwhelm",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Adaptogen that expands capacity; helps the system that is full find more room and perspective",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Shame and Guilt",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Sacred herb that elevates perspective; helps release identification with past actions and reconnect with essential goodness",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Dark Night of the Soul",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Sacred herb that maintains connection to the divine even in spiritual darkness; sustains faith",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 2-3x daily as devotional practice"
+      },
+      {
+        "ailment": "Loss of Purpose",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Sacred herb that reconnects to dharma (life purpose); clears the fog of purposelessness",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 2-3x daily as devotional practice"
+      },
+      {
+        "ailment": "Spiritual Fatigue",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Sacred herb that sustains spiritual practice when the spirit is weary; reconnects to the sacred in daily life",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 2-3x daily as spiritual nourishment"
       }
     ],
     "compound_names": [
@@ -10602,6 +12122,14 @@
         "efficacy_notes": "Immune-enhancing polysaccharides support anti-cancer immunity and reduce side effects of conventional cancer treatments.",
         "evidence_level": "clinical",
         "dosage_notes": "6-12 g dried root simmered 20-30 minutes, taken daily."
+      },
+      {
+        "ailment": "Energetic Depletion",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Premier qi tonic in TCM; rebuilds protective and vital energy; strengthens the energetic boundary",
+        "evidence_level": "clinical",
+        "dosage_notes": "5-15g dried root simmered in soups or as tea daily"
       }
     ],
     "compound_names": [
@@ -10750,6 +12278,38 @@
         "efficacy_notes": "Lignans protect hepatocytes from toxic damage and support liver regeneration in chronic liver conditions.",
         "evidence_level": "clinical",
         "dosage_notes": "2-4 ml tincture or 500 mg extract, twice daily."
+      },
+      {
+        "ailment": "Burnout",
+        "plant_part": "seed_fruit",
+        "preparation": "Tincture",
+        "efficacy_notes": "Five-flavor berry that harmonizes all organ systems; rebuilds qi depleted by overwork",
+        "evidence_level": "clinical",
+        "dosage_notes": "2-4ml tincture 2x daily, or 500mg dried berry extract"
+      },
+      {
+        "ailment": "Mood Swings",
+        "plant_part": "seed_fruit",
+        "preparation": "Tincture",
+        "efficacy_notes": "Harmonizing adaptogen that balances all five organ systems; stabilizes emotional swings by centering qi",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "2-4ml tincture 2x daily"
+      },
+      {
+        "ailment": "Energetic Depletion",
+        "plant_part": "seed_fruit",
+        "preparation": "Tincture",
+        "efficacy_notes": "Five-flavor berry that tonifies all five organs; rebuilds depleted essence through harmonization",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "2-4ml tincture 2x daily; or brew dried berries as tea"
+      },
+      {
+        "ailment": "Spiritual Fatigue",
+        "plant_part": "seed_fruit",
+        "preparation": "Tincture",
+        "efficacy_notes": "Five-flavor berry that tonifies all dimensions of being; harmonizes the spirit when scattered by fatigue",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "2-4ml tincture 2x daily"
       }
     ],
     "compound_names": [
@@ -10892,6 +12452,30 @@
         "efficacy_notes": "Adaptogenic support for stress-related psychiatric symptoms, with evidence for reducing fatigue, anxiety, and mild depression.",
         "evidence_level": "clinical",
         "dosage_notes": "200-400 mg extract standardized to rosavins daily."
+      },
+      {
+        "ailment": "Burnout",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Adaptogen that combats mental and physical fatigue; restores motivation and cognitive function after chronic stress",
+        "evidence_level": "clinical",
+        "dosage_notes": "200-400mg standardized extract in morning"
+      },
+      {
+        "ailment": "Low Self-Esteem",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Builds confidence through stress resilience; restores the competence that generates genuine self-regard",
+        "evidence_level": "clinical",
+        "dosage_notes": "200-400mg standardized extract in morning"
+      },
+      {
+        "ailment": "Loss of Purpose",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Adaptogen that restores drive and motivation; rebuilds the will that purpose requires",
+        "evidence_level": "clinical",
+        "dosage_notes": "200-400mg standardized extract in morning"
       }
     ],
     "compound_names": [
@@ -11039,6 +12623,78 @@
         "efficacy_notes": "Inhibits 11-beta-hydroxysteroid dehydrogenase, preventing cortisol breakdown and supporting adrenal output during depletion.",
         "evidence_level": "clinical",
         "dosage_notes": "1-2 g dried root simmered 10 minutes, taken in the morning. Avoid in hypertension."
+      },
+      {
+        "ailment": "Acid Reflux",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Deglycyrrhizinated licorice (DGL) stimulates mucus production and protects stomach lining",
+        "evidence_level": "clinical",
+        "dosage_notes": "DGL: chew 1-2 tablets before meals; whole root decoction: 1 tsp simmered 10 min"
+      },
+      {
+        "ailment": "Bronchitis",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Demulcent and expectorant; soothes irritated bronchi while glycyrrhizin provides antiviral action",
+        "evidence_level": "clinical",
+        "dosage_notes": "1 tsp dried root simmered 10 min, 3x daily; limit use to 4-6 weeks"
+      },
+      {
+        "ailment": "Cold Sores",
+        "plant_part": "root",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Glycyrrhizic acid inhibits herpes simplex virus replication and reduces inflammation",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply licorice root gel topically 3-4x daily; can also take internally as tea"
+      },
+      {
+        "ailment": "Gastritis",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "DGL form stimulates protective mucus production and promotes gastric mucosal healing",
+        "evidence_level": "clinical",
+        "dosage_notes": "DGL tablets chewed before meals; or 1 tsp root simmered 10 min"
+      },
+      {
+        "ailment": "Laryngitis",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Demulcent and anti-inflammatory; protects vocal cords and reduces laryngeal swelling",
+        "evidence_level": "traditional",
+        "dosage_notes": "1 tsp root simmered 10 min; gargle and sip, 3-4x daily"
+      },
+      {
+        "ailment": "Low Blood Pressure",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Glycyrrhizin increases cortisol half-life, raising blood pressure; one of few herbs that raises BP",
+        "evidence_level": "clinical",
+        "dosage_notes": "1 tsp root simmered 10 min, 1-2x daily; monitor blood pressure"
+      },
+      {
+        "ailment": "Rosacea",
+        "plant_part": "root",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Glabridin inhibits inflammation and redness; traditional skin-calming agent",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply licorice root extract cream to affected areas 2x daily"
+      },
+      {
+        "ailment": "Shingles",
+        "plant_part": "root",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Glycyrrhizic acid inhibits herpes zoster replication; anti-inflammatory for nerve pain",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply licorice gel topically; take DGL internally"
+      },
+      {
+        "ailment": "Burnout",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Supports depleted adrenals by extending cortisol half-life; restores energy gently",
+        "evidence_level": "clinical",
+        "dosage_notes": "1 tsp root simmered 10 min, 1-2x daily for 4-6 week courses"
       }
     ],
     "compound_names": [
@@ -11164,6 +12820,14 @@
         "efficacy_notes": "Supports pelvic blood circulation and reduces stagnation, while modulating estrogen metabolism implicated in endometrial growth.",
         "evidence_level": "traditional",
         "dosage_notes": "2-4 ml tincture twice daily. Avoid during heavy menstrual bleeding."
+      },
+      {
+        "ailment": "Anemia",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Traditional blood tonic in TCM; stimulates red blood cell production and iron utilization",
+        "evidence_level": "traditional",
+        "dosage_notes": "3-5g root simmered 20 min, 2x daily"
       }
     ],
     "compound_names": [
@@ -11318,6 +12982,30 @@
         "efficacy_notes": "Supports kidney tissue repair and reduces fibrosis through triterpenoid saponin action.",
         "evidence_level": "traditional",
         "dosage_notes": "1-2 teaspoons dried herb per cup, steeped 10 minutes. Drink 2-3 cups daily."
+      },
+      {
+        "ailment": "Varicose Veins",
+        "plant_part": "leaf",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Triterpenoids strengthen vein walls and improve venous insufficiency; clinically validated",
+        "evidence_level": "clinical",
+        "dosage_notes": "60-120mg triterpenic fraction 2x daily"
+      },
+      {
+        "ailment": "Intuition Blockage",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Crown chakra herb in Ayurveda; enhances meditative perception and spiritual insight",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Spiritual Fatigue",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Crown chakra herb that nourishes meditation practice; sustains spiritual awareness without stimulation",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "1-2 tsp dried herb steeped 10 min, 2-3x daily"
       }
     ],
     "compound_names": [
@@ -11554,6 +13242,14 @@
         "efficacy_notes": "Premier Ayurvedic galactagogue that enhances breast milk production and quality through hormonal support.",
         "evidence_level": "traditional",
         "dosage_notes": "500 mg-1 g root powder twice daily, or 2-4 ml tincture twice daily."
+      },
+      {
+        "ailment": "Postpartum Recovery",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Premier Ayurvedic rejuvenative for women; nourishes reproductive tissues and supports milk production",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "1-2 tsp powder in warm milk, 2x daily"
       }
     ],
     "compound_names": [
@@ -11679,6 +13375,22 @@
         "efficacy_notes": "Anti-inflammatory and immunomodulatory properties address both the skin and joint manifestations of PsA.",
         "evidence_level": "traditional",
         "dosage_notes": "1-2 teaspoons dried leaf per cup, steeped 10 minutes. Drink 1-2 cups daily."
+      },
+      {
+        "ailment": "Candida Overgrowth",
+        "plant_part": "leaf",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Nimbidin and gedunin compounds inhibit Candida growth; traditional Ayurvedic antifungal",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "1-2 capsules dried leaf 2x daily"
+      },
+      {
+        "ailment": "Dandruff and Scalp Conditions",
+        "plant_part": "leaf",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Antifungal and anti-inflammatory; targets Malassezia fungus that causes dandruff",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply neem oil diluted in carrier oil to scalp, leave 30 min before washing"
       }
     ],
     "compound_names": [
@@ -12168,6 +13880,14 @@
         "efficacy_notes": "Traditional liver and kidney tonic with hepatoprotective effects, supporting liver function and blood nourishment.",
         "evidence_level": "traditional",
         "dosage_notes": "6-12 g prepared root simmered 20-30 minutes, taken daily."
+      },
+      {
+        "ailment": "Hair Loss",
+        "plant_part": "root",
+        "preparation": "Decoction",
+        "efficacy_notes": "Premier TCM tonic for hair; nourishes blood and kidney essence which governs hair health in Chinese medicine",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "3-5g prepared root simmered 20 min, 2x daily"
       }
     ],
     "compound_names": [
@@ -12283,6 +14003,22 @@
         "efficacy_notes": "Beta-glucan polysaccharides modulate immune function, upregulating weakened immunity while calming overactive immune responses.",
         "evidence_level": "clinical",
         "dosage_notes": "3-6 grams daily as hot water extract or dual extract. Consistent use over weeks yields the best immune-modulating results."
+      },
+      {
+        "ailment": "Energetic Depletion",
+        "plant_part": "fungal_body",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Increases cellular ATP production; rebuilds kidney qi and lung energy in TCM",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-3g powder or extract daily"
+      },
+      {
+        "ailment": "Spiritual Fatigue",
+        "plant_part": "fungal_body",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Rebuilds kidney jing (essence) which is the root of spiritual vitality in TCM",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "1-3g powder or extract daily"
       }
     ],
     "compound_names": [
@@ -12863,6 +14599,22 @@
         "efficacy_notes": "EGCG inhibits aromatase, reduces estrogen receptor signaling, and provides chemopreventive effects in hormone-sensitive cancers.",
         "evidence_level": "clinical",
         "dosage_notes": "3-5 cups daily, or 250-500 mg EGCG extract daily."
+      },
+      {
+        "ailment": "Dry Mouth",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Polyphenols support salivary gland function and provide antimicrobial protection for dry mouth",
+        "evidence_level": "clinical",
+        "dosage_notes": "2-3 cups daily; swish before swallowing"
+      },
+      {
+        "ailment": "Rosacea",
+        "plant_part": "leaf",
+        "preparation": "Compress",
+        "efficacy_notes": "EGCG reduces angiogenesis and inflammation; clinically shown to reduce rosacea redness",
+        "evidence_level": "clinical",
+        "dosage_notes": "Cooled green tea bags applied to face 10 min, 2x daily; also drink 3 cups daily"
       }
     ],
     "compound_names": [
@@ -13107,6 +14859,22 @@
         "efficacy_notes": "Clinical studies show moringa significantly increases breast milk volume. Rich in iron, calcium, and protein for maternal nutrition.",
         "evidence_level": "clinical",
         "dosage_notes": "500 mg-1 g dried leaf powder, 2-3 times daily with meals."
+      },
+      {
+        "ailment": "Anemia",
+        "plant_part": "leaf",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Contains 25x more iron than spinach with vitamin C for absorption; clinically shown to raise hemoglobin",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp powder daily in food or drink"
+      },
+      {
+        "ailment": "Type 2 Diabetes",
+        "plant_part": "leaf",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Isothiocyanates reduce insulin resistance; chlorogenic acid slows glucose absorption",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp leaf powder daily in food or water"
       }
     ],
     "compound_names": [
@@ -13339,6 +15107,14 @@
         "efficacy_notes": "Improves insulin sensitivity and glucose uptake at the cellular level, reducing overall insulin requirements.",
         "evidence_level": "clinical",
         "dosage_notes": "1-2 g cinnamon daily with meals."
+      },
+      {
+        "ailment": "Type 2 Diabetes",
+        "plant_part": "bark",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Cinnamaldehyde improves insulin sensitivity and lowers fasting blood glucose",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-6g daily (Ceylon cinnamon preferred); or 250mg extract 2x daily"
       }
     ],
     "compound_names": [
@@ -13688,6 +15464,14 @@
         "efficacy_notes": "Rich in vitamin C and bioflavonoids that strengthen capillary walls and support healthy blood clotting.",
         "evidence_level": "traditional",
         "dosage_notes": "500 mg-1 g amla powder daily."
+      },
+      {
+        "ailment": "Hair Loss",
+        "plant_part": "seed_fruit",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Rich in vitamin C and tannins; strengthens hair follicles and promotes growth in Ayurvedic tradition",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "1-2 tsp powder daily; also apply amla oil to scalp"
       }
     ],
     "compound_names": [
@@ -13853,6 +15637,22 @@
         "efficacy_notes": "Boswellic acids reduce autoimmune inflammation through 5-lipoxygenase inhibition and immune modulation.",
         "evidence_level": "clinical",
         "dosage_notes": "300-400 mg boswellia extract, 3 times daily."
+      },
+      {
+        "ailment": "Ancestral Healing",
+        "plant_part": "resin_sap",
+        "preparation": "Essential Oil",
+        "efficacy_notes": "Sacred resin used across cultures to commune with ancestors; elevates consciousness to ancestral realms",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "Burn resin on charcoal during ancestral meditation; or diffuse essential oil"
+      },
+      {
+        "ailment": "Intuition Blockage",
+        "plant_part": "resin_sap",
+        "preparation": "Essential Oil",
+        "efficacy_notes": "Deepens breath and meditation; used across traditions to access higher states of knowing",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "Burn resin during meditation; or diffuse essential oil for intuitive practice"
       }
     ],
     "compound_names": [
@@ -14233,6 +16033,14 @@
         "efficacy_notes": "Traditional use against intestinal parasites, supported by in vitro studies showing antiparasitic activity of lapachol.",
         "evidence_level": "ethnobotanical",
         "dosage_notes": "Strong decoction of 3 teaspoons bark in 2 cups water, taken twice daily for up to 2 weeks."
+      },
+      {
+        "ailment": "Candida Overgrowth",
+        "plant_part": "bark",
+        "preparation": "Decoction",
+        "efficacy_notes": "Lapachol and beta-lapachone have potent antifungal action against Candida species",
+        "evidence_level": "clinical",
+        "dosage_notes": "1 tbsp inner bark simmered 20 min, 2-3x daily"
       }
     ],
     "compound_names": [
@@ -14444,6 +16252,14 @@
         "efficacy_notes": "Stimulant and vasodilatory actions improve peripheral blood flow and metabolic rate.",
         "evidence_level": "traditional",
         "dosage_notes": "75-150 mg standardized extract daily."
+      },
+      {
+        "ailment": "Low Blood Pressure",
+        "plant_part": "seed_fruit",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Caffeine and theobromine provide gentle cardiovascular stimulation to raise blood pressure",
+        "evidence_level": "clinical",
+        "dosage_notes": "200-400mg standardized extract in the morning"
       }
     ],
     "compound_names": [
@@ -14568,6 +16384,14 @@
         "efficacy_notes": "Inhibits 5-alpha-reductase, reducing the conversion of testosterone to the more potent DHT, addressing hirsutism and acne in PCOS.",
         "evidence_level": "clinical",
         "dosage_notes": "160 mg standardized extract twice daily, or 1-2 ml tincture twice daily."
+      },
+      {
+        "ailment": "Hair Loss",
+        "plant_part": "seed_fruit",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Inhibits 5-alpha reductase enzyme, reducing DHT-driven androgenic alopecia",
+        "evidence_level": "clinical",
+        "dosage_notes": "320mg standardized extract daily"
       }
     ],
     "compound_names": [
@@ -14713,6 +16537,46 @@
         "efficacy_notes": "Demulcent mucilage soothes dry mouth and throat, providing symptomatic relief from sicca symptoms.",
         "evidence_level": "traditional",
         "dosage_notes": "1 tablespoon powdered bark mixed in warm water, sipped throughout the day."
+      },
+      {
+        "ailment": "Acid Reflux",
+        "plant_part": "bark",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Demulcent bark creates a protective mucilage layer over irritated gastric tissues",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 capsules or 1 tsp powder in water before meals"
+      },
+      {
+        "ailment": "Diverticulitis",
+        "plant_part": "bark",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Demulcent mucilage soothes inflamed intestinal diverticula and reduces irritation",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp powder mixed in water, 3x daily between flares"
+      },
+      {
+        "ailment": "Dry Mouth",
+        "plant_part": "bark",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Mucilaginous bark moistens oral tissues and stimulates saliva production",
+        "evidence_level": "traditional",
+        "dosage_notes": "Small lozenge or powder dissolved slowly in mouth as needed"
+      },
+      {
+        "ailment": "Laryngitis",
+        "plant_part": "bark",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Demulcent lozenges coat and soothe inflamed throat and larynx",
+        "evidence_level": "traditional",
+        "dosage_notes": "Dissolve lozenge slowly in mouth as needed; or sip powder in warm water"
+      },
+      {
+        "ailment": "Sore Throat",
+        "plant_part": "bark",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Demulcent lozenges provide lasting throat coating and pain relief",
+        "evidence_level": "traditional",
+        "dosage_notes": "Dissolve lozenge slowly in mouth every 2-3 hours"
       }
     ],
     "compound_names": [
@@ -14953,6 +16817,14 @@
         "efficacy_notes": "Nourishes and supports adrenal gland function without direct hormonal stimulation.",
         "evidence_level": "traditional",
         "dosage_notes": "1.5-3 g dried maca powder daily with food."
+      },
+      {
+        "ailment": "Erectile Dysfunction",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Macamides improve sexual function and libido; clinically shown to benefit erectile function",
+        "evidence_level": "clinical",
+        "dosage_notes": "1500-3000mg dried root powder daily"
       }
     ],
     "compound_names": [
@@ -15058,6 +16930,14 @@
         "efficacy_notes": "Nervine tonic properties help lift depressive states associated with exhaustion, low vitality, and reduced libido.",
         "evidence_level": "traditional",
         "dosage_notes": "1-2 mL tincture (1:5) taken 2-3 times daily as part of a broader antidepressant protocol."
+      },
+      {
+        "ailment": "Erectile Dysfunction",
+        "plant_part": "bark",
+        "preparation": "Tincture",
+        "efficacy_notes": "Traditional Amazonian aphrodisiac; improves both libido and erectile function",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2ml tincture 2-3x daily, or 1-1.5g dried bark as decoction"
       }
     ],
     "compound_names": [
@@ -15380,6 +17260,14 @@
         "efficacy_notes": "Anti-inflammatory and diuretic properties help reduce joint swelling and clear uric acid, traditionally used for gout and rheumatism.",
         "evidence_level": "ethnobotanical",
         "dosage_notes": "2-3 mL tincture (1:5) taken 3 times daily, or strong infusion applied topically."
+      },
+      {
+        "ailment": "Cystitis",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Diosphenol provides urinary antiseptic and anti-inflammatory action; traditional South African remedy",
+        "evidence_level": "traditional",
+        "dosage_notes": "1 tsp dried leaf steeped 10 min, 3x daily"
       }
     ],
     "compound_names": [
@@ -15515,6 +17403,30 @@
         "efficacy_notes": "Anti-inflammatory and analgesic effects reduce joint pain and swelling in inflammatory arthritis conditions.",
         "evidence_level": "clinical",
         "dosage_notes": "2-4 ml tincture or 600-1200 mg extract daily in divided doses."
+      },
+      {
+        "ailment": "Back Pain",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Harpagoside provides potent anti-inflammatory action; clinically proven for low back pain",
+        "evidence_level": "clinical",
+        "dosage_notes": "600-1200mg standardized extract (50-100mg harpagoside) daily"
+      },
+      {
+        "ailment": "Gout",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Harpagoside provides anti-inflammatory relief for acute gouty arthritis",
+        "evidence_level": "clinical",
+        "dosage_notes": "600-1200mg standardized extract daily during flares"
+      },
+      {
+        "ailment": "Sciatica",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Anti-inflammatory harpagoside reduces compression-related inflammation around sciatic nerve",
+        "evidence_level": "clinical",
+        "dosage_notes": "600-1200mg standardized extract daily"
       }
     ],
     "compound_names": [
@@ -16429,6 +18341,14 @@
         "efficacy_notes": "Circulatory stimulant properties drive blood to the periphery, warming cold extremities and promoting overall vascular tone. Traditional use at high altitude supports oxygen delivery.",
         "evidence_level": "ethnobotanical",
         "dosage_notes": "1/2 cup root decoction taken 2-3 times daily. Can also be chewed fresh for immediate circulatory stimulation."
+      },
+      {
+        "ailment": "Shingles",
+        "plant_part": "root",
+        "preparation": "Tincture",
+        "efficacy_notes": "Potent antiviral and immune stimulant used in Indigenous medicine for viral infections",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "15-30 drops tincture 3-4x daily during acute phase"
       }
     ],
     "compound_names": [
@@ -16550,6 +18470,22 @@
         "efficacy_notes": "Rosmarinic acid and other phenolic compounds support cognitive clarity and memory. The genus name Salvia derives from 'salvare' (to save or heal), acknowledging the sage family's ancient reputation for mental acuity.",
         "evidence_level": "traditional",
         "dosage_notes": "1 teaspoon dried leaf per cup, steeped 10 minutes. Take 1 cup in the morning for mental clarity."
+      },
+      {
+        "ailment": "Ancestral Healing",
+        "plant_part": "leaf",
+        "preparation": "Essential Oil",
+        "efficacy_notes": "Purification herb that clears intergenerational energetic patterns; opens space for ancestral resolution",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "Burn dried bundle during ceremony; use with cultural respect and intention"
+      },
+      {
+        "ailment": "Psychic Overwhelm",
+        "plant_part": "leaf",
+        "preparation": "Essential Oil",
+        "efficacy_notes": "Purifying herb that clears accumulated psychic debris; resets the energetic field",
+        "evidence_level": "ethnobotanical",
+        "dosage_notes": "Burn dried sage to clear space and aura; use with respect for Indigenous traditions"
       }
     ],
     "compound_names": [
@@ -16658,6 +18594,14 @@
         "efficacy_notes": "Ursolic acid provides systemic anti-inflammatory activity. The high tannin content reduces mucosal inflammation in the urinary and gastrointestinal tracts.",
         "evidence_level": "traditional",
         "dosage_notes": "1 teaspoon dried leaf simmered in 1 cup water for 10 minutes. Take 1-2 cups daily for up to 2 weeks."
+      },
+      {
+        "ailment": "Cystitis",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Arbutin converts to hydroquinone in alkaline urine, providing urinary antiseptic action",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp dried leaf steeped 15 min, 3x daily; keep urine alkaline for effectiveness"
       }
     ],
     "compound_names": [
@@ -16779,6 +18723,14 @@
         "efficacy_notes": "The inner bark acts as a gentle laxative and liver stimulant, promoting healthy elimination and bile flow. Used when digestive stagnation accompanies parasitic or fungal overgrowth.",
         "evidence_level": "traditional",
         "dosage_notes": "1 teaspoon dried inner bark simmered in 1 cup water for 15 minutes. Take 1/2 cup before meals, up to twice daily."
+      },
+      {
+        "ailment": "Candida Overgrowth",
+        "plant_part": "bark",
+        "preparation": "Tincture",
+        "efficacy_notes": "Juglone in green hulls is powerfully antifungal; traditional remedy for yeast overgrowth",
+        "evidence_level": "traditional",
+        "dosage_notes": "15-30 drops tincture of green hulls, 3x daily for 2-3 weeks"
       }
     ],
     "compound_names": [
@@ -17324,6 +19276,14 @@
         "efficacy_notes": "Thymoquinone demonstrates anti-cancer effects including apoptosis induction and anti-angiogenesis in multiple cancer models.",
         "evidence_level": "clinical",
         "dosage_notes": "1-2 teaspoons black seed oil daily. Use as complement, not replacement, for conventional treatment."
+      },
+      {
+        "ailment": "Type 2 Diabetes",
+        "plant_part": "seed_fruit",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Thymoquinone improves insulin secretion and reduces blood glucose; pancreatic protective",
+        "evidence_level": "clinical",
+        "dosage_notes": "2g ground seeds daily or 200-400mg black seed oil extract"
       }
     ],
     "compound_names": [
@@ -17444,6 +19404,14 @@
         "efficacy_notes": "Reduces atherosclerosis progression, lowers LDL cholesterol and blood pressure, and inhibits platelet aggregation.",
         "evidence_level": "clinical",
         "dosage_notes": "600-1200 mg aged garlic extract daily, or 1-2 fresh cloves daily."
+      },
+      {
+        "ailment": "Candida Overgrowth",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Allicin has broad-spectrum antifungal activity; disrupts Candida biofilms",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 raw cloves daily or 600-1200mg aged garlic extract"
       }
     ],
     "compound_names": [
@@ -17557,6 +19525,14 @@
         "efficacy_notes": "Capsaicin promotes vasodilation and improves peripheral blood flow, warming extremities and counteracting vasospasm.",
         "evidence_level": "clinical",
         "dosage_notes": "5-10 drops tincture in warm water, 2-3 times daily. Can also be used topically in diluted form."
+      },
+      {
+        "ailment": "Muscle Cramps and Spasms",
+        "plant_part": "seed_fruit",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Capsaicin depletes substance P, reducing muscle pain signals; increases local blood flow",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply capsaicin cream to affected area 2-3x daily; wash hands after application"
       }
     ],
     "compound_names": [
@@ -17679,6 +19655,14 @@
         "efficacy_notes": "Traditional galactagogue that increases breast milk production and reduces infant colic through carminative properties passed via milk.",
         "evidence_level": "traditional",
         "dosage_notes": "1-2 teaspoons crushed seeds per cup, steeped 10 minutes. Drink 2-3 cups daily."
+      },
+      {
+        "ailment": "Motion Sickness",
+        "plant_part": "seed_fruit",
+        "preparation": "Infusion",
+        "efficacy_notes": "Carminative that settles nausea and prevents vomiting; traditional anti-emetic",
+        "evidence_level": "traditional",
+        "dosage_notes": "1 tsp crushed seeds steeped 10 min, drink before travel"
       }
     ],
     "compound_names": [
@@ -17903,6 +19887,14 @@
         "efficacy_notes": "Mild diuretic that supports kidney function and helps reduce fluid retention in early kidney disease.",
         "evidence_level": "traditional",
         "dosage_notes": "1-2 teaspoons dried parsley per cup, steeped 10 minutes. Drink 1-2 cups daily."
+      },
+      {
+        "ailment": "Kidney Stones",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Diuretic action flushes kidneys; apigenin helps prevent calcium oxalate crystal formation",
+        "evidence_level": "traditional",
+        "dosage_notes": "2 tsp fresh or dried parsley steeped 10 min, 3x daily with plenty of water"
       }
     ],
     "compound_names": [
@@ -18556,6 +20548,14 @@
         "efficacy_notes": "Most widely used galactagogue, with clinical evidence showing increased breast milk production within 24-72 hours.",
         "evidence_level": "clinical",
         "dosage_notes": "1-2 teaspoons seeds steeped 10 minutes, 2-3 cups daily, or 500-1000 mg capsules 3 times daily."
+      },
+      {
+        "ailment": "Type 2 Diabetes",
+        "plant_part": "seed_fruit",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "4-hydroxyisoleucine stimulates insulin secretion; soluble fiber slows glucose absorption",
+        "evidence_level": "clinical",
+        "dosage_notes": "5-30g powdered seed with meals, or 500mg extract 2x daily"
       }
     ],
     "compound_names": [
@@ -18760,6 +20760,14 @@
         "efficacy_notes": "Clinical trials demonstrate antidepressant effects comparable to fluoxetine and imipramine in mild-moderate depression.",
         "evidence_level": "clinical",
         "dosage_notes": "30 mg saffron extract daily in divided doses."
+      },
+      {
+        "ailment": "Mood Swings",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Crocin and safranal modulate serotonin; clinically shown to stabilize mood comparable to fluoxetine",
+        "evidence_level": "clinical",
+        "dosage_notes": "30mg extract daily; or steep 2-3 threads in hot water as tea"
       }
     ],
     "compound_names": [
@@ -19164,6 +21172,14 @@
         "efficacy_notes": "Traditionally used as a diuretic and mild antiseptic for urinary tract complaints.",
         "evidence_level": "ethnobotanical",
         "dosage_notes": "Mild infusion of grated root, 1-2 cups daily for short durations."
+      },
+      {
+        "ailment": "Sinusitis",
+        "plant_part": "root",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Allyl isothiocyanate powerfully clears sinus congestion; antimicrobial for sinus infections",
+        "evidence_level": "traditional",
+        "dosage_notes": "1/4 tsp freshly grated root; or 500mg capsule 2-3x daily"
       }
     ],
     "compound_names": [
@@ -19584,6 +21600,14 @@
         "efficacy_notes": "Cynarin and silymarin content supports liver function, increases bile flow, and protects against hepatotoxicity.",
         "evidence_level": "clinical",
         "dosage_notes": "320-640 mg extract, 2-3 times daily before meals."
+      },
+      {
+        "ailment": "Gallbladder Issues",
+        "plant_part": "leaf",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "Cynarin stimulates bile production and flow; clinically proven cholagogue and choleretic",
+        "evidence_level": "clinical",
+        "dosage_notes": "320-640mg standardized extract 3x daily before meals"
       }
     ],
     "compound_names": [
@@ -19692,6 +21716,22 @@
         "efficacy_notes": "Anti-inflammatory and diuretic properties help reduce joint swelling and clear uric acid, supporting joint comfort.",
         "evidence_level": "traditional",
         "dosage_notes": "1 teaspoon crushed seeds per cup, steeped 10-15 minutes. Drink 2-3 cups daily."
+      },
+      {
+        "ailment": "Gout",
+        "plant_part": "seed_fruit",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "3-n-butylphthalide reduces uric acid levels and has anti-inflammatory action on joints",
+        "evidence_level": "clinical",
+        "dosage_notes": "75mg celery seed extract 2x daily; or 1 tsp seeds as decoction"
+      },
+      {
+        "ailment": "Kidney Stones",
+        "plant_part": "seed_fruit",
+        "preparation": "Decoction",
+        "efficacy_notes": "Diuretic and uric acid-lowering properties; traditional remedy for renal calculi",
+        "evidence_level": "traditional",
+        "dosage_notes": "1 tsp crushed seeds simmered 10 min, 2-3x daily"
       }
     ],
     "compound_names": [
@@ -19806,6 +21846,14 @@
         "efficacy_notes": "Juniper berry tea warms the digestive tract and relieves flatulence, bloating, and sluggish digestion.",
         "evidence_level": "traditional",
         "dosage_notes": "Chew 3-5 berries before meals or drink a cup of berry tea after eating."
+      },
+      {
+        "ailment": "Cystitis",
+        "plant_part": "seed_fruit",
+        "preparation": "Infusion",
+        "efficacy_notes": "Volatile oils provide urinary antiseptic action; increases urinary output to flush bacteria",
+        "evidence_level": "traditional",
+        "dosage_notes": "1/2 tsp crushed berries steeped 15 min, 2-3x daily; short courses only, avoid in kidney disease"
       }
     ],
     "compound_names": [
@@ -20155,6 +22203,30 @@
         "efficacy_notes": "Moisturizing and anti-inflammatory properties soothe dry mucous membranes and support tissue hydration.",
         "evidence_level": "traditional",
         "dosage_notes": "30-60 ml inner leaf juice daily; topical gel for skin dryness."
+      },
+      {
+        "ailment": "Dandruff and Scalp Conditions",
+        "plant_part": "leaf",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Anti-inflammatory gel soothes scalp irritation; antifungal properties address root cause",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply fresh gel to scalp, leave 20-30 min before washing, 2-3x weekly"
+      },
+      {
+        "ailment": "Eczema",
+        "plant_part": "leaf",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Acemannan and salicylic acid reduce inflammation and support skin healing; deeply moisturizing",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply pure gel to affected areas 2-3x daily"
+      },
+      {
+        "ailment": "Rosacea",
+        "plant_part": "leaf",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Cooling anti-inflammatory gel reduces redness and irritation; supports skin barrier repair",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply pure gel to clean face 2x daily"
       }
     ],
     "compound_names": [
@@ -20485,6 +22557,14 @@
         "efficacy_notes": "Proanthocyanidins strengthen blood vessel walls, reduce LDL oxidation, and improve endothelial function.",
         "evidence_level": "clinical",
         "dosage_notes": "150-300 mg grape seed extract daily."
+      },
+      {
+        "ailment": "Varicose Veins",
+        "plant_part": "seed_fruit",
+        "preparation": "Capsule/Powder",
+        "efficacy_notes": "OPCs strengthen collagen in vein walls and reduce capillary fragility",
+        "evidence_level": "clinical",
+        "dosage_notes": "150-300mg standardized extract daily"
       }
     ],
     "compound_names": [
@@ -20715,6 +22795,38 @@
         "efficacy_notes": "Salicin provides anti-inflammatory and analgesic effects similar to aspirin but with better GI tolerance, reducing joint pain and swelling.",
         "evidence_level": "clinical",
         "dosage_notes": "1-2 teaspoons dried bark simmered 10-15 minutes, 2-3 times daily, or 120-240 mg salicin daily."
+      },
+      {
+        "ailment": "Back Pain",
+        "plant_part": "bark",
+        "preparation": "Decoction",
+        "efficacy_notes": "Natural salicin provides anti-inflammatory and analgesic effects comparable to aspirin",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp dried bark simmered 15 min, 2-3x daily"
+      },
+      {
+        "ailment": "Fever",
+        "plant_part": "bark",
+        "preparation": "Decoction",
+        "efficacy_notes": "Salicin provides antipyretic action similar to aspirin; traditional febrifuge",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp dried bark simmered 15 min, 2-3x daily"
+      },
+      {
+        "ailment": "Sciatica",
+        "plant_part": "bark",
+        "preparation": "Decoction",
+        "efficacy_notes": "Salicin provides analgesic relief for nerve pain without gastric irritation of synthetic aspirin",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp dried bark simmered 15 min, 2-3x daily"
+      },
+      {
+        "ailment": "Tendonitis",
+        "plant_part": "bark",
+        "preparation": "Decoction",
+        "efficacy_notes": "Natural anti-inflammatory and analgesic; gentler on stomach than synthetic NSAIDs",
+        "evidence_level": "clinical",
+        "dosage_notes": "1-2 tsp bark simmered 15 min, 2-3x daily during acute phase"
       }
     ],
     "compound_names": [
@@ -20829,6 +22941,22 @@
         "efficacy_notes": "Astringent and hemostatic herb that strengthens blood vessel integrity and reduces bleeding.",
         "evidence_level": "traditional",
         "dosage_notes": "2-4 ml tincture 2-3 times daily; also effective topically."
+      },
+      {
+        "ailment": "Hemorrhoids",
+        "plant_part": "bark",
+        "preparation": "Compress",
+        "efficacy_notes": "Astringent tannins reduce swelling and bleeding; anti-inflammatory for hemorrhoidal tissue",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply witch hazel extract on cotton pad to affected area 3-4x daily"
+      },
+      {
+        "ailment": "Varicose Veins",
+        "plant_part": "bark",
+        "preparation": "Compress",
+        "efficacy_notes": "Astringent tannins tone venous tissue and reduce inflammation of varicose veins",
+        "evidence_level": "traditional",
+        "dosage_notes": "Apply witch hazel extract as compress to varicose veins 2x daily"
       }
     ],
     "compound_names": [
@@ -20930,6 +23058,38 @@
         "efficacy_notes": "Topical application of eucalyptus preparations provides analgesic and anti-inflammatory effects through 1,8-cineole's ability to penetrate tissues",
         "evidence_level": "clinical",
         "dosage_notes": "Diluted essential oil or tincture applied topically to affected joints 2-3 times daily"
+      },
+      {
+        "ailment": "Asthma",
+        "plant_part": "leaf",
+        "preparation": "Steam Inhalation",
+        "efficacy_notes": "Eucalyptol opens airways, reduces inflammation, and thins bronchial mucus",
+        "evidence_level": "clinical",
+        "dosage_notes": "3-5 drops essential oil in bowl of hot water, inhale steam 5-10 min"
+      },
+      {
+        "ailment": "Bronchitis",
+        "plant_part": "leaf",
+        "preparation": "Steam Inhalation",
+        "efficacy_notes": "1,8-cineole reduces bronchial inflammation, fights infection, and loosens phlegm",
+        "evidence_level": "clinical",
+        "dosage_notes": "3-5 drops essential oil in hot water, inhale 5-10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Sinusitis",
+        "plant_part": "leaf",
+        "preparation": "Steam Inhalation",
+        "efficacy_notes": "1,8-cineole opens sinus passages, thins mucus, and has antimicrobial action against sinus pathogens",
+        "evidence_level": "clinical",
+        "dosage_notes": "3-5 drops essential oil in bowl of hot water, inhale 5-10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Sleep Apnea",
+        "plant_part": "leaf",
+        "preparation": "Essential Oil",
+        "efficacy_notes": "Anti-inflammatory for upper airway tissues; opens breathing passages during sleep",
+        "evidence_level": "anecdotal",
+        "dosage_notes": "Diffuse essential oil in bedroom; or apply diluted to chest before sleep"
       }
     ],
     "compound_names": [
@@ -21042,6 +23202,14 @@
         "efficacy_notes": "Pine resin applied topically creates an antimicrobial barrier over wounds, and historical evidence from Scandinavian wound-care traditions supports its efficacy",
         "evidence_level": "ethnobotanical",
         "dosage_notes": "Warmed resin applied directly as a poultice, or resin dissolved in alcohol for use as an antiseptic wash"
+      },
+      {
+        "ailment": "Disconnection from Nature",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Ancient tree that reconnects us to the green world; terpenes literally open our lungs to breathe with the forest",
+        "evidence_level": "traditional",
+        "dosage_notes": "Pine needle tea: handful of fresh needles steeped 15 min; drink outdoors"
       }
     ],
     "compound_names": [
@@ -21149,6 +23317,14 @@
         "efficacy_notes": "Betulin and betulinic acid demonstrate anti-inflammatory and wound-healing properties when applied topically, supporting traditional use for eczema and psoriasis",
         "evidence_level": "clinical",
         "dosage_notes": "Bark decoction applied as a wash or compress to affected areas, or betulin-enriched ointment applied twice daily"
+      },
+      {
+        "ailment": "Gout",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Diuretic and anti-inflammatory; promotes uric acid excretion through increased urination",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-3 tsp dried leaf steeped 10 min, 3x daily with plenty of water"
       }
     ],
     "compound_names": [
@@ -21262,6 +23438,22 @@
         "efficacy_notes": "Powerful astringent rich in tannins that strengthens blood vessel walls and reduces bleeding tendency.",
         "evidence_level": "traditional",
         "dosage_notes": "1-2 teaspoons dried bark simmered 15 minutes, taken 2-3 times daily."
+      },
+      {
+        "ailment": "Disconnection from Nature",
+        "plant_part": "bark",
+        "preparation": "Flower Essence",
+        "efficacy_notes": "Reconnects to the strength and patience of ancient trees; restores sense of being part of the living world",
+        "evidence_level": "traditional",
+        "dosage_notes": "4 drops flower essence 4x daily; also spend time sitting with oak trees"
+      },
+      {
+        "ailment": "Inability to Ground",
+        "plant_part": "bark",
+        "preparation": "Flower Essence",
+        "efficacy_notes": "Ancient tree with the deepest roots; flower essence transmits the quality of unshakeable rootedness",
+        "evidence_level": "traditional",
+        "dosage_notes": "4 drops flower essence 4x daily; spend time with oak trees"
       }
     ],
     "compound_names": [
@@ -21761,6 +23953,14 @@
         "efficacy_notes": "The mucilaginous, demulcent properties soothe and protect inflamed mucous membranes of the digestive tract, supporting the healing of gastric and duodenal ulcers",
         "evidence_level": "traditional",
         "dosage_notes": "Mild decoction taken on an empty stomach, 30 minutes before meals"
+      },
+      {
+        "ailment": "Tendonitis",
+        "plant_part": "root",
+        "preparation": "Tincture",
+        "efficacy_notes": "Specific for connective tissue repair; restores proper tension and lubrication to tendons",
+        "evidence_level": "traditional",
+        "dosage_notes": "30-60 drops tincture 3x daily; also apply topically as liniment"
       }
     ],
     "compound_names": [
@@ -21878,6 +24078,22 @@
         "efficacy_notes": "Potent uterine antispasmodic that reduces the severe cramping and pelvic pain characteristic of endometriosis.",
         "evidence_level": "traditional",
         "dosage_notes": "3-5 ml tincture every 3-4 hours during acute pain, or 2 ml three times daily as maintenance."
+      },
+      {
+        "ailment": "Muscle Cramps and Spasms",
+        "plant_part": "bark",
+        "preparation": "Tincture",
+        "efficacy_notes": "Viopudial and scopoletin relax skeletal and smooth muscle; specific for muscle spasms",
+        "evidence_level": "traditional",
+        "dosage_notes": "3-5ml tincture in water, 3x daily or as needed for acute cramps"
+      },
+      {
+        "ailment": "Restless Leg Syndrome",
+        "plant_part": "bark",
+        "preparation": "Tincture",
+        "efficacy_notes": "Antispasmodic that relaxes involuntary muscle contractions in the legs",
+        "evidence_level": "traditional",
+        "dosage_notes": "3-5ml tincture in evening; repeat at bedtime if needed"
       }
     ],
     "compound_names": [
@@ -22231,6 +24447,14 @@
         "efficacy_notes": "Gentian's cholagogue action stimulates bile production and flow, supporting liver detoxification and fat metabolism",
         "evidence_level": "clinical",
         "dosage_notes": "Tincture of 15-20 drops before meals; often combined with other hepatic herbs like artichoke or dandelion root"
+      },
+      {
+        "ailment": "Gallbladder Issues",
+        "plant_part": "root",
+        "preparation": "Tincture",
+        "efficacy_notes": "Potent bitter that stimulates digestive secretions including bile; traditional cholagogue",
+        "evidence_level": "traditional",
+        "dosage_notes": "10-20 drops tincture in water 15 min before meals"
       }
     ],
     "compound_names": [
@@ -22820,6 +25044,14 @@
         "efficacy_notes": "Postpartum uterine tonic that supports recovery and provides nutritive support during breastfeeding.",
         "evidence_level": "traditional",
         "dosage_notes": "1-2 teaspoons dried leaf per cup, steeped 10-15 minutes. Drink 1-3 cups daily."
+      },
+      {
+        "ailment": "Postpartum Recovery",
+        "plant_part": "leaf",
+        "preparation": "Infusion",
+        "efficacy_notes": "Uterine tonic that supports involution; nutrient-dense for postpartum replenishment",
+        "evidence_level": "traditional",
+        "dosage_notes": "2-3 tsp dried leaf steeped 15 min, 3-4x daily"
       }
     ],
     "compound_names": [
@@ -23049,6 +25281,22 @@
         "efficacy_notes": "Helenalin inhibits NF-kB, a key inflammatory pathway, providing localized anti-inflammatory effects",
         "evidence_level": "clinical",
         "dosage_notes": "Topical application of standardized preparations to inflamed areas 2-3 times daily"
+      },
+      {
+        "ailment": "Back Pain",
+        "plant_part": "flower",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Topical anti-inflammatory reduces swelling, bruising, and muscle pain; sesquiterpene lactones inhibit inflammation",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply cream/gel to affected area 2-3x daily; external use only"
+      },
+      {
+        "ailment": "Tendonitis",
+        "plant_part": "flower",
+        "preparation": "Salve/Ointment",
+        "efficacy_notes": "Anti-inflammatory sesquiterpene lactones reduce tendon swelling and pain",
+        "evidence_level": "clinical",
+        "dosage_notes": "Apply arnica gel to affected area 2-3x daily; external use only"
       }
     ],
     "compound_names": [
@@ -23181,6 +25429,14 @@
         "efficacy_notes": "Modulates progesterone levels through pituitary regulation, helping counteract the estrogen dominance driving endometriosis.",
         "evidence_level": "clinical",
         "dosage_notes": "40 drops tincture or 20-40 mg extract each morning."
+      },
+      {
+        "ailment": "Mood Swings",
+        "plant_part": "seed_fruit",
+        "preparation": "Tincture",
+        "efficacy_notes": "Regulates hormonal fluctuations that drive mood instability; balances prolactin and progesterone",
+        "evidence_level": "clinical",
+        "dosage_notes": "40 drops tincture each morning; allow 3 months for hormonal balancing"
       }
     ],
     "compound_names": [
@@ -24014,6 +26270,38 @@
         "efficacy_notes": "Cardiovascular tonic that reduces blood pressure and supports healthy arterial function through mild vasodilation.",
         "evidence_level": "traditional",
         "dosage_notes": "1-2 teaspoons dried flowers per cup, steeped 10-15 minutes. Drink 2-3 cups daily."
+      },
+      {
+        "ailment": "Heartbreak",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Gentle nervine that soothes emotional pain and relaxes grief-contracted heart; brings sweetness back",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried flowers steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Loneliness and Isolation",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Heart-warming herb of community; opens the heart to connection and softens self-protective withdrawal",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried flowers steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Nervous Exhaustion",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Gentle nervine that soothes frayed nerves without sedation; sweet and nourishing for the overwrought",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried flowers steeped 10 min, 2-3x daily"
+      },
+      {
+        "ailment": "Shame and Guilt",
+        "plant_part": "flower",
+        "preparation": "Infusion",
+        "efficacy_notes": "Sweetness that dissolves rigid self-judgment; opens the heart to compassion for self and others",
+        "evidence_level": "traditional",
+        "dosage_notes": "1-2 tsp dried flowers steeped 10 min, 2-3x daily"
       }
     ],
     "compound_names": [
